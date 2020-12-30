@@ -7,6 +7,7 @@ Each section will also have a dedicated file for which faction they belong in th
 
 *Note: The first slot will be considered the flagship in the main fleet and command ship of the vanguard. This will be how you add the boats in your fleet basically.*  
 *Note 2: Meowfficers will not be included. Their buffs are nice to have, but not an overall factor.*
+*Note 3: **Kai** refers to retrofitting. If you see this, it means they were retrofitted completely.*
 
 ## Azur Lane / USS
 ### Enterprise
@@ -22,21 +23,19 @@ Each section will also have a dedicated file for which faction they belong in th
 | Montpelier | CL | <details><summary>Cleveland, but better.</summary>Montpelier is the younger Cleveland-class, improving on her namesake in many ways. She also helps out your other cruisers as well.</details>
 | Baltimore | CA | <details><summary>Hard hitting and CV buffing.</summary>Baltimore hits hard, decent armor, and even buffs your CV's and CVL's in USS fleets. If you sortie without them, she'll buff herself instead. Also, she has a special AP ammo buff for her main gun.</details>
 
-
-
 ## Sakura Empire / IJN
 ### Kitsune
 | Name | Class | Reason
 | --- | --- |
-| Nagato | BB |
-| Akagi | CV |
-| Kaga | CV |
+| Nagato | BB | <details><summary>Glory to the Sakura Empire!</summary>Not only is she a smol fox, she will help you carry your fleet to glory. She has a very powerful barrage if it goes off, and she buffs your IJN carriers to boot. You don't mess with this little thing.</details>
+| Akagi | CV | <details><summary>You don't take her, you die...</summary>A scary 9-tailed fox that will kill you if you so much as look at another woman... A powerful carrier and when sortied with her sister, Kaga, they buff each other and have an early launch of aircraft. Very formiddable carriers.</details>
+| Kaga | CV | Look at Akagi.
 
 | Name | Class | Reason
 | --- | --- |
-| Ayanami | DD |
-| Jintsuu | CL |
-| Mogami | CA |
+| Ayanami | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
+| Jintsuu | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
+| Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
 ### Meido
