@@ -6,7 +6,7 @@ Down below you'll find a basic table of my current fleet composition of girls I 
 Each section will also have a dedicated file for which faction they belong in that details what equipment they have equipped, along with images. I might list recommended equipment, but that's for later. Anyway, enjoy the boat girls!
 
 *Note: The first slot will be considered the flagship in the main fleet and command ship of the vanguard. This will be how you add the boats in your fleet basically.*  
-*Note 2: Meowfficers will not be included. Their buffs are nice to have, but not an overall factor.*
+*Note 2: Meowfficers will not be included. Their buffs are nice to have, but not an overall factor.*  
 *Note 3: **Kai** refers to retrofitting. If you see this, it means they were retrofitted completely.*
 
 ## Azur Lane / USS
