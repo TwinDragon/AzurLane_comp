@@ -38,6 +38,7 @@ Each section will also have a dedicated file for which faction they belong in th
 | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
+*Note: I will be redoing my HMS fleet at some point in the future. Though the girls are fine, but I'm going to do a complete overhaul of my HMS fleet for a better composition than what I have now. The reason is because back when I made this fleet, HMS didn't have that many good ships and this was well over a year ago. Now that a few events happened, more HMS ships are available, there are better possibilities now.*
 ### Meido
 | Name | Class | Reason
 | --- | --- | --- |
