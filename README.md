@@ -48,7 +48,7 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Name | Class | Reason
 | --- | --- | --- |
-| Fortune | DD |
+| Fortune Kai | DD |
 | Belfast | CL |
 | Aurora | CL |
 
