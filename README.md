@@ -69,6 +69,7 @@ Each section will also have a dedicated file for which faction they belong in th
 ## Submarines
 *Subs are in a class of their own as they provide supplemental torpedo power. They can help if you have the extra oil to spare. In many cases, their barrages won't matter much, so put your favorite submarine as the first slot if you want.*
 
+*Slower torps are recommended to use because they are more likely to hit than standard. However, if you do face more stationary bosses, then regular torpedoes could, in theory, have higher damage output.*
 ### Sakura Empire / IJN
 | Name | Class
 | --- | --- |
