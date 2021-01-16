@@ -19,7 +19,7 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Name | Class | Reason
 | --- | --- | --- |
-| Laffey | DD | <details><summary>For a DD, she hits pretty hard.</summary>An AP barrage along with torps? Why not. She also hits hard too and is all-around decent.</details>
+| Laffey Kai | DD | <details><summary>For a DD, she hits pretty hard.</summary>An AP barrage along with torps? Why not. She also hits hard too and is all-around decent.</details>
 | Montpelier | CL | <details><summary>Cleveland, but better.</summary>Montpelier is the younger Cleveland-class, improving on her namesake in many ways. She also helps out your other cruisers as well.</details>
 | Baltimore | CA | <details><summary>Hard hitting and CV buffing.</summary>Baltimore hits hard, decent armor, and even buffs your CV's and CVL's in USS fleets. If you sortie without them, she'll buff herself instead. Also, she has a special AP ammo buff for her main gun.</details>
 
@@ -33,8 +33,8 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Name | Class | Reason
 | --- | --- | --- |
-| Ayanami | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
-| Jintsuu | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
+| Ayanami Kai | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
+| Jintsuu Kai | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
 | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
@@ -42,7 +42,7 @@ Each section will also have a dedicated file for which faction they belong in th
 ### Meido
 | Name | Class | Reason
 | --- | --- | --- |
-| Warspite | BB |
+| Warspite Kai | BB |
 | Unicorn | CVL |
 | Illustrious | CV |
 
