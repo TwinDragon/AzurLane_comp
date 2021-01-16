@@ -56,20 +56,21 @@ Each section will also have a dedicated file for which faction they belong in th
 ### Ryuu
 | Name | Class | Reason
 | --- | --- | --- |
-| Bismarck | BB |
-| Tirpitz | BB |
-| Graf Zeppelin | CV |
+| Bismarck | BB | <details><summary>She hits hard, buffs your carrier, and helps Tirpitz.</summary>Bismarck helps Tirpitz get over her social anxiety while buffing all of your Iron Blood ships and vanguard. On top of that, she has a decent barrage when she's flagship.</details>
+| Tirpitz | BB | <details><summary>Cater to her anxiety and she'll help you out.</summary>Alone, she does decent damage on, but when sortied with other BB/BC's, then she gets nerfed. However, Bismarck let's her get over that anxiety. Decent BB, but don't count on those torps for a lot of damage.</details>
+| Graf Zeppelin | CV | <details><summary>The pinnacle of KMS carriers, she helps your vanguard too.</summary>Graf Zeppelin is a good carrier to have. Not only does she buff your vanguard by reducing the damage they take, she gets a buff herself for each KMS ship up to a stack of 3. Equip her with KMS Aircraft and she'll carry you to glory.</details>
 
 | Name | Class | Reason
 | --- | --- | --- |
-| Z23 | DD |
-| Roon | CA |
-| Z46 | DD |
+| Z23 Kai | DD | <details><summary>Hard-hitting gunboat with weak torps.</summary>Z23 hits hard and fast, rivaling that of even CL's. She has a powerful AP barrage that also launches torps, and even spawns a helpful pair of shields to block incoming fire. Just don't rely on the shields too much.</details>
+| Roon | CA | <details><summary>An oddball that switches ammo types.</summary>Roon is not only a yandere (and scary at that), but she's odd that her main gun switches ammo types betwen AP and HE. Not bad to use, but situational at times. She does have a powerful barrage that is both AP and HE that fires in three directions. Oh, and she spawns shields.</details>
+| Z46 | DD | <details><summary>Feisty little boat with that barrage of hers.</summary>She's a feisty one, as her AP barrage gets a buff from her skill (but for the love of Cubes, do not equip an AP gun on her; DD's do not like AP guns), and she can hit rapidly too. Oh, and she buffs herself every time she fires down a plane. Buff timer resets every time, but does not stack.</details>
 
 ## Submarines
 *Subs are in a class of their own as they provide supplemental torpedo power. They can help if you have the extra oil to spare. In many cases, their barrages won't matter much, so put your favorite submarine as the first slot if you want.*
 
 *Slower torps are recommended to use because they are more likely to hit than standard. However, if you do face more stationary bosses, then regular torpedoes could, in theory, have higher damage output.*
+
 ### Sakura Empire / IJN
 | Name | Class
 | --- | --- |
