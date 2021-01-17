@@ -23,7 +23,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | <details><summary>Twin 127mm (5"/38 Mk 38)</summary>In-game: Twin 127mm MK12 Dual Gun</details> | Quintuple 533mm | <details><summary>Twin 105mm (SK C/33)</summary>In-game: Twin 105mm AA Gun (SK C)</details> | Type 93 Pure Oxygen Torpedo | Air Radar |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | <details><summary>Twin 127mm (5"/38 Mk 38)</summary>In-game: Twin 127mm MK12 Dual Gun</details><br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | Quintuple 533mm<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | <details><summary>Twin 105mm (SK C/33)</summary>In-game: Twin 105mm AA Gun (SK C)</details><br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | Type 93 Pure Oxygen Torpedo<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | Air Radar |
 | ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- | --- |
 | ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- | --- |
 
