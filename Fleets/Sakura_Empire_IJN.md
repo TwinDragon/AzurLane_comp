@@ -13,26 +13,26 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Nagato](imgs/IJN/NagatoChibi.png) | Nagato | BB | --- | --- | --- | --- |
-| ![Akagi](imgs/IJN/AkagiChibi.png) | Akagi | CV | --- | --- | --- | --- |
-| ![Kaga](imgs/IJN/KagaChibi.png) | Kaga | CV | --- | --- | --- | --- |
+| ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | --- | --- | --- | --- |
+| ![Akagi](/imgs/IJN/AkagiChibi.png) | Akagi | CV | --- | --- | --- | --- |
+| ![Kaga](/imgs/IJN/KagaChibi.png) | Kaga | CV | --- | --- | --- | --- |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ayanami](imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | --- | --- | --- | --- |
-| ![Jintsuu](imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- |
-| ![Mogami](imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | --- | --- | --- | --- |
+| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- |
+| ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- |
 
 ## Yamato-class carrier, Shinano
 ### Main Fleet
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Kaga](imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | --- | --- | --- | --- |
-| ![Tosa](imgs/IJN/TosaChibi.png) | Akagi | BB | --- | --- | --- | --- |
-| ![Shinano](imgs/IJN/ShinanoChibi.png) | Shinano | CV | --- | --- | --- | --- |
+| ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | --- | --- | --- | --- |
+| ![Tosa](/imgs/IJN/TosaChibi.png) | Akagi | BB | --- | --- | --- | --- |
+| ![Shinano](/imgs/IJN/ShinanoChibi.png) | Shinano | CV | --- | --- | --- | --- |
 
 *Note: I will likely switch Tosa to Flagship and remove BB Kaga for Taihou in the near future.*
 
@@ -40,9 +40,9 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Yuudachi](imgs/IJN/YuudachiChibi.png) | Yuudachi | DD | --- | --- | --- | --- |
-| ![Suzutsuki](imgs/IJN/SuzutsukiChibi.png) | Suzutsuki | DD | --- | --- | --- | --- |
-| ![Noshiro](imgs/IJN/NoshiroChibi.png) | Noshiro | CL | --- | --- | --- | --- |
+| ![Yuudachi](/imgs/IJN/YuudachiChibi.png) | Yuudachi | DD | --- | --- | --- | --- |
+| ![Suzutsuki](/imgs/IJN/SuzutsukiChibi.png) | Suzutsuki | DD | --- | --- | --- | --- |
+| ![Noshiro](/imgs/IJN/NoshiroChibi.png) | Noshiro | CL | --- | --- | --- | --- |
 
 *Note: Yuudachi is a fine DD, but I might end up replacing her for Yukikaze. Will be doing some tests soon-ish.*
 
@@ -51,17 +51,17 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Amagi](imgs/IJN/AmagiChibi.png) | Amagi | BC | --- | --- | --- | --- |
-| ![Souryuu](imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |
-| ![Hiryuu](imgs/IJN/HiryuuKaiChibi.png) | Hiryuu | CV | --- | --- | --- | --- |
+| ![Amagi](/imgs/IJN/AmagiChibi.png) | Amagi | BC | --- | --- | --- | --- |
+| ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |
+| ![Hiryuu](/imgs/IJN/HiryuuKaiChibi.png) | Hiryuu | CV | --- | --- | --- | --- |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Kitakaze](imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- |
-| ![Ibuki](imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- |
-| ![Maya](imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- |
+| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- |
+| ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- |
+| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- |
 
 *Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
 
@@ -71,6 +71,6 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![I-168](imgs/IJN/I-168Chibi.png) | I-168 | SS | --- | --- | --- | --- |
-| ![I-19](imgs/IJN/I-19Chibi.png) | I-19 | SS | --- | --- | --- | --- |
-| ![I-13](imgs/IJN/I-13Chibi.png) | I-13 | SSV | --- | --- | --- | --- |
+| ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | --- | --- | --- | --- |
+| ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | --- | --- | --- | --- |
+| ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | --- | --- | --- | --- |
