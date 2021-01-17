@@ -69,7 +69,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 I'm listing submarines as a formality to show what equipment I have on them. I have no real advice on subs as they are only supplemental torpedo damage that do help in some cases to dish out just that extra bit. Read their skills and pick which suit your needs.
 
-| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| Chibi | Name | Class | Torpedo 1 | Torpedo 2 | Gun / Plane | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | --- | --- | --- | --- |
 | ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | --- | --- | --- | --- |
