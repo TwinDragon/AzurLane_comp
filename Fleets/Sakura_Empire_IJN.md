@@ -8,6 +8,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 *Note: Though minor, some of these may change a tiny bit due to substitutions for Hard maps, or I need specific setups for certain event maps or Operation Siren stuff. I will have a separate table of girls below the main compositions of additional girls I may use depending on circumstances.*
 
+*Note 2: Some equipment I've chosen for the girls aren't the best, because getting upgrade plates at times is a lot harder than it needs to be, especially **General Plates** for auxillary items. It will be ever-changing, but I'll do my best to keep it updated.*
+
 ## 1st Capitol Fleet
 ### Main Fleet
 
@@ -21,9 +23,9 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | --- | --- | --- | --- |
-| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- |
-| ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | <details><summary>Twin 127mm (5"/38 Mk 38)</summary>In-game: Twin 127mm MK12 Dual Gun</details> | Quintuple 533mm | <details><summary>Twin 105mm (SK C/33)</summary>In-game: Twin 105mm AA Gun (SK C)</details> | Type 93 Pure Oxygen Torpedo | Air Radar |
+| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- | --- |
+| ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- | --- |
 
 ## Yamato-class carrier, Shinano
 ### Main Fleet
