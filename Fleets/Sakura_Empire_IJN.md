@@ -8,8 +8,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 *Note: Though minor, some of these may change a tiny bit due to substitutions for Hard maps, or I need specific setups for certain event maps or Operation Siren stuff. I will have a separate table of girls below the main compositions of additional girls I may use depending on circumstances.*
 
-### 1st Capitol Fleet
-#### Main Fleet
+## 1st Capitol Fleet
+### Main Fleet
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | ![Akagi](imgs/IJN/AkagiChibi.png) | Akagi | CV | --- | --- | --- | --- |
 | ![Kaga](imgs/IJN/KagaChibi.png) | Kaga | CV | --- | --- | --- | --- |
 
-#### Vanguard
+### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,8 +25,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | ![Jintsuu](imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- |
 | ![Mogami](imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- |
 
-### Yamato-class carrier, Shinano
-#### Main Fleet
+## Yamato-class carrier, Shinano
+### Main Fleet
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 *Note: I will likely switch Tosa to Flagship and remove BB Kaga for Taihou in the near future.*
 
-#### Vanguard
+### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,8 +46,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 *Note: Yuudachi is a fine DD, but I might end up replacing her for Yukikaze. Will be doing some tests soon-ish.*
 
-### Siren Exterminators
-#### Main Fleet
+## Siren Exterminators
+### Main Fleet
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | ![Souryuu](imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |
 | ![Hiryuu](imgs/IJN/HiryuuKaiChibi.png) | Hiryuu | CV | --- | --- | --- | --- |
 
-#### Vanguard
+### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
