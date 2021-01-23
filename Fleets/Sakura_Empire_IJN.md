@@ -15,9 +15,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | --- | --- | --- | --- |
-| ![Akagi](/imgs/IJN/AkagiChibi.png) | Akagi | CV | --- | --- | --- | --- |
-| ![Kaga](/imgs/IJN/KagaChibi.png) | Kaga | CV | --- | --- | --- | --- |
+| ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 
 ### Vanguard
 
