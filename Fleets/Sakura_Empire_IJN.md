@@ -17,6 +17,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 | ![Akagi](/imgs/IJN/AkagiChibi.png) | Akagi | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Fairey Firefly][Firefly]<br />![Fairey Firefly](/imgs/Equip/Aircraft/Dive/fairey_firefly.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />[Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />[Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Kaga](/imgs/IJN/KagaChibi.png) | Kaga | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />[Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />[Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 ### Vanguard
 
@@ -92,3 +93,13 @@ WIP Section
 [Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
 [Triple 203mm 1934]: https://azurlane.koumakan.jp/Triple_203mm_(Mle_1934_Prototype)
 [PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
+[Triple 410mm Proto]: https://azurlane.koumakan.jp/Triple_410mm_(10th_Year_Type_Prototype)
+[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
+[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
+[Reppuu]: https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3
+[Firefly]: https://azurlane.koumakan.jp/Fairey_Firefly
+[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
+[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
+[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+[Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
+[PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
