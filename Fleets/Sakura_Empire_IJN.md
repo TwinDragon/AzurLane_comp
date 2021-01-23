@@ -23,7 +23,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | <details><summary>Twin 127mm (5"/38 Mk 38)</summary>In-game: Twin 127mm MK12 Dual Gun</details><br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | Quintuple 533mm<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | <details><summary>Twin 105mm (SK C/33)</summary>In-game: Twin 105mm AA Gun (SK C)</details><br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | Type 93 Pure Oxygen Torpedo<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | Air Radar |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]In-game: Twin 105mm AA Gun (SK C)<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Air Radar][Air Radar]<br /> ![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
 | ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | --- | --- | --- | --- | --- |
 | ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | --- | --- | --- | --- | --- |
 
@@ -76,3 +76,9 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 | ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | --- | --- | --- | --- |
 | ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | --- | --- | --- | --- |
 | ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | --- | --- | --- | --- |
+
+[Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
+[533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
+[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
+[OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
+[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
