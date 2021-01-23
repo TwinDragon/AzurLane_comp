@@ -32,9 +32,9 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | --- | --- | --- | --- |
-| ![Tosa](/imgs/IJN/TosaChibi.png) | Akagi | BB | --- | --- | --- | --- |
-| ![Shinano](/imgs/IJN/ShinanoChibi.png) | Shinano | CV | --- | --- | --- | --- |
+| ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 152mm MK17 DP Prototype][Triple 152mm DP]<br />![Triple 152mm DP](/imgs/Equip/Guns/152mm_triple_mk17dp_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
+| ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/40mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+| ![Shinano](/imgs/IJN/ShinanoChibi.png) | Shinano | CV | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 *Note: I will likely switch Tosa to Flagship and remove BB Kaga for Taihou in the near future.*
 
@@ -102,3 +102,10 @@ WIP Section
 [Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
 [VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
 [Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
+[Triple 152mm DP]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)
+[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
+[Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
+[SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
+[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
+[Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
+[Ryuusei]: https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3
