@@ -102,4 +102,3 @@ WIP Section
 [Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
 [VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
 [Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
-[PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
