@@ -24,7 +24,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Air Radar][Air Radar]<br /> ![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
-| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 113mm AA (QF MKI)[Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png)] | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 113mm AA (QF MKI)[Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 | ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
 
 ## Yamato-class carrier, Shinano
@@ -89,7 +89,7 @@ WIP Section
 [Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
 [OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
 [Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
-[Triple 155m]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
+[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
 [Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
 [Triple 203mm 1934]: https://azurlane.koumakan.jp/Triple_203mm_(Mle_1934_Prototype)
 [PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
