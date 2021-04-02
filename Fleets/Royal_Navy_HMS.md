@@ -32,11 +32,17 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Dido](/imgs/HMS/DidoChibi.png) | Dido | CL | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) |  [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+| ![Javelin Kai](/imgs/HMS/JavelinKaiChibi.png) | Javelin Kai | DD | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Fuel Filter][Fuel Filter]<br />![Fuel Filter](/imgs/Equip/Auxillary/fuel_filter.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) |
+| ![Black Prince](/imgs/HMS/Black_PrinceChibi.png) | Black Prince | CL | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [533mm Magnetic Torpedo][533mm Magnet Torp]<br />![533 Magnetic Torpedo](/imgs/Equip/Auxillary/533mm_magnet_torp.png) |
 
 
 [533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
@@ -59,3 +65,10 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 [Twin 410mm 3rd]: https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3
 [Triple 150mm SKC25]: https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)#Type_3
 [F6F]: https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3
+[Single 127mm MK30]: https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk_30)#Type_3
+[40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
+[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
+[Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
+[OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
+[PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
+[533mm Magnet Torp]: https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo#Type_3
