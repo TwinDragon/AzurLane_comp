@@ -42,15 +42,15 @@ Each section will also have a dedicated file for which faction they belong in th
 ### Meido
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Warspite Kai](imgs/HMS/WarspiteKaiChibi.png) | Warspite Kai | BB |
-| ![Unicorn](imgs/HMS/UnicornChibi.png) | Unicorn | CVL |
-| ![Illustrious](imgs/HMS/IllustriousChibi.png) | Illustrious | CV |
+| ![Warspite Kai](imgs/HMS/WarspiteKaiChibi.png) | Warspite Kai | BB | <details><summary>Backline Deleter.</summary>Warspite makes her namesake as the backline deleter if you take her for the exercises. Otherwise, she has crazy high accuracy that's terrifying, and overall powerful.</details>
+| ![Unicorn](imgs/HMS/UnicornChibi.png) | Unicorn | CVL | <details><summary>The little cutie of healers.</summary>Unicorn is an excellent defense-focused CVL that heals your vanguard every time her aircraft launch.</details>
+| ![Illustrious](imgs/HMS/IllustriousChibi.png) | Illustrious | CV | <details><summary>My god those boobs... *cough*</summary>In all seriousness, Illustrious is a defense-oriented CV, having 2 fighter slots and a skill that protects your vanguard from all damage for a few seconds when her aircraft launch.</details>
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Fortune Kai](imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD |
-| ![Belfast](imgs/HMS/BelfastChibi.png) | Belfast | CL |
-| ![Aurora](imgs/HMS/AuroraChibi.png) | Aurora | CL |
+| ![Fortune Kai](imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD | <details><summary>Cute little back line protector.</summary>She has a chance to evade all incoming attacks, and she helps your backline defense a little bit. *But please, stay quiet when you're fighting...*</details>
+| ![Belfast](imgs/HMS/BelfastChibi.png) | Belfast | CL | <details><summary>Poster maid of the HMS fleet.</summary>Belfast buffs her HE damage (shells only), and lays down a smokescreen to incease evasion from airstrikes. Decent boat to have.</details>
+| ![Aurora](imgs/HMS/AuroraChibi.png) | Aurora | CL | <details><summary>Sweet, charming cruiser.</summary>Her skill buffs her damage to small boats like destroyers, torpedo boats, etc... She also debuffs the evasion of enemy destroyers and light cruisers so long as she's alive.</details>
 
 ## Iron Blood / KMS
 ### Ryuu
