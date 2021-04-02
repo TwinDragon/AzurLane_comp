@@ -13,7 +13,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 ## 1st Capitol Fleet
 ### Main Fleet
 
-| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 | ![Akagi](/imgs/IJN/AkagiChibi.png) | Akagi | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Fairey Firefly][Firefly]<br />![Fairey Firefly](/imgs/Equip/Aircraft/Dive/fairey_firefly.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
@@ -30,7 +30,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 ## Yamato-class carrier, Shinano
 ### Main Fleet
 
-| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 152mm MK17 DP Prototype][Triple 152mm DP]<br />![Triple 152mm DP](/imgs/Equip/Guns/152mm_triple_mk17dp_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
 | ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
@@ -51,7 +51,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 ## Siren Exterminators
 ### Main Fleet
 
-| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Amagi](/imgs/IJN/AmagiChibi.png) | Amagi | BC | --- | --- | --- | --- |
 | ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |

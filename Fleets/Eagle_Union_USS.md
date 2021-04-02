@@ -13,7 +13,7 @@ I have no real biases on which girls I use, just depends on what the skills they
 ## Enterprise Fleet
 ### Main Fleet
 
-| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Alabama](/imgs/USS/AlabamaChibi.png) | Alabama | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Twin 128mm (SK C/41)][Twin 128mm SKC41]<br />![Twin 128mm SKC41](/imgs/Equip/Guns/128mm_twin_skc41_elite.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [High Performance Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/high_perf_fire_radar_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
 | ![Enterprise](/imgs/USS/EnterpriseChibi.png) | Enterprise | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Curtiss XSB3C (Experimental)][PR Helldiver]<br />![XSB3C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_exp_sr.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
