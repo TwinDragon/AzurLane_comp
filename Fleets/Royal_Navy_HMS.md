@@ -32,9 +32,9 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Hood](/imgs/HMS/HoodChibi.png) | Hood | BC | [Twin 381mm (BL 15" Mk II)][Twin 381mm MkII]<br />![Twin 381mm](/imgs/Equip/Guns/381mm_twin_bl15mkii_sr.png) | [Twin 100mm (Type 98)][Twin 100mm T98] | [Twin 127mm AA (Type 89)][Twin 127mm AA]<br />![Twin 127mm AA](/imgs/Equip/AntiAir/127mm_aa_t89.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) |
+| ![Georgia](/imgs/USS/GeorgiaChibi.png) | Georgia | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Twin 128mm (SK C/41)][Twin 128mm SKC41]<br />![Twin 128mm SKC41](/imgs/Equip/Guns/128mm_twin_skc41_elite.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
+| ![Formidable](/imgs/HMS/FormidableChibi.png) | Formidable | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [General Motors TBM Avenger (VT-18 Squadron)][Avenger VT18]<br />![Avenger VT18](/imgs/Equip/Aircraft/Torp/tbm_avenger_vt18.png) | [Blackburn Firebrand][Firebrand]<br />![Blackburn Firebrand](/imgs/Equip/Aircraft/Torp/blackburn_firebrand.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 ### Vanguard
 
@@ -43,6 +43,9 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 | ![Dido](/imgs/HMS/DidoChibi.png) | Dido | CL | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) |  [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
 | ![Javelin Kai](/imgs/HMS/JavelinKaiChibi.png) | Javelin Kai | DD | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Fuel Filter][Fuel Filter]<br />![Fuel Filter](/imgs/Equip/Auxillary/fuel_filter.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) |
 | ![Black Prince](/imgs/HMS/Black_PrinceChibi.png) | Black Prince | CL | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [533mm Magnetic Torpedo][533mm Magnet Torp]<br />![533 Magnetic Torpedo](/imgs/Equip/Auxillary/533mm_magnet_torp.png) |
+
+***Georgia?!?!?!** - BUT THIS IS AN HMS FLEET YOU NIT!*  
+Yeah, I'm aware. Black Prince requires a USS ship to make use of her skill. This particular fleet is actually pretty specific in composition due to skill requirements.
 
 
 [533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
@@ -72,3 +75,15 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 [OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
 [PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
 [533mm Magnet Torp]: https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo#Type_3
+[Twin 381mm MkII]: https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II)
+[Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
+[Twin 127mm AA]: https://azurlane.koumakan.jp/Twin_127mm_AA_(Type_89)#Type_3
+[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
+[SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
+[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
+[Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
+[Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
+[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
+[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+[Firebrand]: https://azurlane.koumakan.jp/Blackburn_Firebrand
+[Avenger VT18]: https://azurlane.koumakan.jp/General_Motors_TBM_Avenger_(VT-18_Squadron)
