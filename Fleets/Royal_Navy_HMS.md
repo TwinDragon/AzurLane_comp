@@ -8,12 +8,16 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 
 *Note: Some equipment aren't the best, just using what I had on hand at the time. HMS are not my primary, but gets the job done for what I need them for.*
 
-### Meido
+## Meido
+### Main Fleet
+
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Warspite Kai](/imgs/HMS/WarspiteKaiChibi.png) | Warspite Kai | BB | [Twin 410mm (3rd Year Type)][Twin 410mm 3rd]<br />![Twin 410mm 3rd](/imgs/Equip/Guns/410mm_twin_3rd.png) | [Triple 150mm (SK C/25)][Triple 150mm SKC25]<br />![Triple 150mm](/imgs/Equip/Guns/150mm_triple_skc25.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/fire_control_radar.png) |
 | ![Unicorn](/imgs/HMS/UnicornChibi.png) | Unicorn | CVL | [F4U Corsair][F4U]<br />![F4U Corsair](/imgs/Equip/Aircraft/Fighters/f4u_corsair_elite.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Twin 113mm AA (QF Mark I)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 | ![Illustrious](/imgs/HMS/IllustriousChibi.png) | Illustrious | CV | [Grumman F6F Hellcat][F6F]<br />![F6F Hellcat](/imgs/Equip/Aircraft/Fighters/f6f_hellcat.png) | [F4U Corsair][F4U]<br />![F4U Corsair](/imgs/Equip/Aircraft/Fighters/f4u_corsair_elite.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+
+### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,6 +26,17 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 | ![Aurora](/imgs/HMS/AuroraChibi.png) | Aurora | CL | [Twin 150mm (TbtsK C/36)][Twin 150mm Tabasco]<br />![Twin 150mm](/imgs/Equip/Guns/150mm_twin_tbtsk.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) | [Gyroscope][Gyroscope]<br />![Gyroscope](/imgs/Equip/Auxillary/gyroscope.png) |
 
 *Big Note: I'm well aware the **SG Radar** don't stack. Just ended up getting lazy about switching them out. I will in the future.*
+
+## More Medio
+### Main Fleet
+
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+### Vanguard
+
+| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 [533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
