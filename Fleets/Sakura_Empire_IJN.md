@@ -32,37 +32,33 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga\* | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 152mm MK17 DP Prototype][Triple 152mm DP]<br />![Triple 152mm DP](/imgs/Equip/Guns/152mm_triple_mk17dp_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
-| ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+| ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 152mm MK17 DP Prototype][Triple 152mm DP]<br />![Triple 152mm DP](/imgs/Equip/Guns/152mm_triple_mk17dp_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
+| ![Shouhou](/imgs/IJN/ShouhouKaiChibi.png) | Shouhou | CVL | --- | --- | --- | --- | --- |
 | ![Shinano](/imgs/IJN/ShinanoChibi.png) | Shinano | CV | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
-
-*Note: I will likely switch Tosa to Flagship and remove BB Kaga for Taihou in the near future.*
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Yuudachi](/imgs/IJN/YuudachiChibi.png) | Yuudachi | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Yukikaze](/imgs/IJN/YukikazeChibi.png) | Yukikaze | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 | ![Suzutsuki](/imgs/IJN/SuzutsukiChibi.png) | Suzutsuki | DD | [Single 138.6mm MLE 1929][138.6mm Single]<br />![138.6mm Single](/imgs/Equip/Guns/138.6mm_mle1929_single.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Repair Toolkit][Toolbox]<br />![Toolbox](/imgs/Equip/Auxillary/toolbox.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 | ![Noshiro](/imgs/IJN/NoshiroChibi.png) | Noshiro | CL | [Triple 152mm BL 6 MK XXV Prototype][Triple 152mm BL6]<br />![Triple 152mm BL6](/imgs/Equip/Guns/152mm_triple_bl6_proto.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
-
-*Note: Yuudachi is a fine DD, but I might end up replacing her for Yukikaze. Will be doing some tests soon-ish.*
 
 ## Siren Exterminators
 ### Main Fleet
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Amagi](/imgs/IJN/AmagiChibi.png) | Amagi | BC | --- | --- | --- | --- |
+| ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | --- | --- | --- | --- |
 | ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |
-| ![Hiryuu](/imgs/IJN/HiryuuKaiChibi.png) | Hiryuu | CV | --- | --- | --- | --- |
+| ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- |
 | ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- |
+| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- |
 | ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- |
 
 *Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
@@ -73,9 +69,9 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 
 | Chibi | Name | Class | Torpedo 1 | Torpedo 2 | Gun / Plane | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | --- | --- | --- | --- |
-| ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | --- | --- | --- | --- |
-| ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | --- | --- | --- | --- |
+| ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Triple 102mm (BL 4" Mk IX)][Triple 102mm]<br />![Triple 102mm Gun](/imgs/Equip/Guns/102mm_triple.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Aichi M6A Seiran][Seiran]<br />![Aichi_Seiran](/imgs/Equip/Aircraft/Seaplane/aichi_seiran.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
 ## Notable Boatgirls
 ### DD's
@@ -114,3 +110,6 @@ WIP Section
 [138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
 [Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
 [Triple 152mm BL6]: https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)
+[Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
+[Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
+[Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
