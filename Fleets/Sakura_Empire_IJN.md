@@ -23,9 +23,9 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Air Radar][Air Radar]<br /> ![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
-| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 113mm AA (QF MKI)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
-| ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
+| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [610mm Quadruple Kai][610mm Quad PR]<br />![610mm Quad Kai](/imgs/Equip/Torps/610mm_quad_pr.png) | [Twin 113mm AA (QF MKI)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![533mm Quintuple Mk17](/imgs/Equip/Torps/533mm_quint_pr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Air Radar][Air Radar]<br /> ![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
+| ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934_sr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![533mm Quintuple Mk17](/imgs/Equip/Torps/533mm_quint_pr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
 
 ## Yamato-class carrier, Shinano
 ### Main Fleet
@@ -82,6 +82,7 @@ WIP Section
 
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
 [533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
+[533mm Quint PR]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17
 [Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
 [OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
 [Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
@@ -107,6 +108,7 @@ WIP Section
 [Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
 [Ryuusei]: https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3
 [610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
+[610mm Quad PR]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai
 [40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
 [138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
 [Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
