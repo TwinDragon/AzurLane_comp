@@ -73,9 +73,9 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 
 | Chibi | Name | Class | Torpedo 1 | Torpedo 2 | Gun / Plane | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | Sub-mounted Type 95 Oxy. Torpedo | Sub-mounted Type 95 Oxy. Torpedo | --- | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
-| ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | Sub-mounted Type 95 Oxy. Torpedo | Sub-mounted Type 95 Oxy. Torpedo | --- | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
-| ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | Sub-mounted Type 95 Oxy. Torpedo | Sub-mounted Type 95 Oxy. Torpedo | Aichi M6A Seiran | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![I-168](/imgs/IJN/I-168Chibi.png) | I-168 | SS | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![I-19](/imgs/IJN/I-19Chibi.png) | I-19 | SS | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Triple 102mm (BL 4" Mk IX)][Triple 102mm]<br />![Triple 102mm Gun](/imgs/Equip/Guns/102mm_triple.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![I-13](/imgs/IJN/I-13Chibi.png) | I-13 | SSV | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Sub-mounted Type 95 Oxy. Torpedo][Type95 Torp]<br />![Type95 Sub Torp](/imgs/Equip/Torps/type95_sub_torp.png) | [Aichi M6A Seiran][Seiran]<br />![Aichi_Seiran](/imgs/Equip/Aircraft/Seaplane/aichi_seiran.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
 ## Notable Boatgirls
 ### DD's
@@ -114,3 +114,6 @@ WIP Section
 [138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
 [Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
 [Triple 152mm BL6]: https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)
+[Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
+[Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
+[Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
