@@ -17,7 +17,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Nagato](/imgs/IJN/NagatoChibi.png) | Nagato | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 | ![Akagi](/imgs/IJN/AkagiChibi.png) | Akagi | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Fairey Firefly][Firefly]<br />![Fairey Firefly](/imgs/Equip/Aircraft/Dive/fairey_firefly.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
-| ![Kaga](/imgs/IJN/KagaChibi.png) | Kaga | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Kaga](/imgs/IJN/KagaChibi.png) | Kaga | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Curtiss XSB3C (Experimental)][PR Helldiver]<br />![XSB3C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_exp_sr.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 ### Vanguard
 
@@ -33,7 +33,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Kaga](/imgs/IJN/KagaBBChibi.png) | Kaga | BB | [Triple 410mm Prototype][Triple 410mm Proto]<br />![Triple 410mm Prototype](/imgs/Equip/Guns/pr_410mm_triple_sr.png) | [Triple 152mm MK17 DP Prototype][Triple 152mm DP]<br />![Triple 152mm DP](/imgs/Equip/Guns/152mm_triple_mk17dp_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
-| ![Shouhou](/imgs/IJN/ShouhouKaiChibi.png) | Shouhou | CVL | --- | --- | --- | --- | --- |
+| ![Shouhou](/imgs/IJN/ShouhouKaiChibi.png) | Shouhou | CVL | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Swordfish (818 Squadron)][818 Swordfish]<br />![Fairey Swordfish 818](/imgs/Equip/Aircraft/Torp/swordfish_818.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png |
 | ![Shinano](/imgs/IJN/ShinanoChibi.png) | Shinano | CV | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 ### Vanguard
@@ -98,6 +98,7 @@ WIP Section
 [Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
 [VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
 [Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
+[PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
 [Triple 152mm DP]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)
 [40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
 [Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
@@ -113,3 +114,4 @@ WIP Section
 [Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
 [Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
 [Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
+[818 Swordfish]: https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron)
