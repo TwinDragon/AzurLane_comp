@@ -57,9 +57,9 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- | --- |
-| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- | --- |
-| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- | --- |
+| ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934_sr.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
+| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | [Twin 130mm (B-2LM)][Twin 130mm]<br />[Twin 130mm (B-2LM)](/imgs/Equip/Guns/130mm_twin_b-2lm.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Fuel Filter][Fuel Filter]<br />![Fuel Filter](/imgs/Equip/Auxillary/fuel_filter.png) |
+| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | [Twin 203mm (SK C/34)][Twin 203mm SKC34]<br />![Twin 203mm SKC34](/imgs/Equip/Guns/203mm_twin_skc34_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/fire_control_radar.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
 *Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
 
@@ -117,3 +117,7 @@ WIP Section
 [818 Swordfish]: https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron)
 [A6M5]: https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3
 [Suisei]: https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3
+[Twin 130mm]: https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3
+[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
+[Twin 203mm SKC34]: https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3
+[Fire Control Radar]: https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3
