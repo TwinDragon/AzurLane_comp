@@ -49,17 +49,17 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | --- | --- | --- | --- |
-| ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | --- | --- | --- | --- |
+| ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | [Mitsubishi A6M5 Zero][A6M5]<br />![A6M5 Zero](/imgs/Equip/Aircraft/Fighters/a6m5_zero.png) | [Yokosuka D4Y Suisei][Suisei]<br />![D4Y Suisei](/imgs/Equip/Aircraft/Dive/suisei.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 | ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- |
-| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- |
-| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- |
+| ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | --- | --- | --- | --- | --- |
+| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | --- | --- | --- | --- | --- |
+| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | --- | --- | --- | --- | --- |
 
 *Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
 
@@ -115,3 +115,5 @@ WIP Section
 [Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
 [Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
 [818 Swordfish]: https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron)
+[A6M5]: https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3
+[Suisei]: https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3
