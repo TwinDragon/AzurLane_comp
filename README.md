@@ -19,8 +19,8 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Laffey Kai](imgs/USS/LaffeyKaiChibi.png) | Laffey Kai | DD | <details><summary>For a DD, she hits pretty hard.</summary>An AP barrage along with torps? Why not. She also hits hard too and is all-around decent.</details>
 | ![Monpelier](imgs/USS/MontpelierChibi.png) | Montpelier | CL | <details><summary>Cleveland, but better.</summary>Montpelier is the younger Cleveland-class, improving on her namesake in many ways. She also helps out your other cruisers as well.</details>
+| ![Laffey Kai](imgs/USS/LaffeyKaiChibi.png) | Laffey Kai | DD | <details><summary>For a DD, she hits pretty hard.</summary>An AP barrage along with torps? Why not. She also hits hard too and is all-around decent.</details>
 | ![Baltimore](imgs/USS/BaltimoreChibi.png) | Baltimore | CA | <details><summary>Hard hitting and CV buffing.</summary>Baltimore hits hard, decent armor, and even buffs your CV's and CVL's in USS fleets. If you sortie without them, she'll buff herself instead. Also, she has a special AP ammo buff for her main gun.</details>
 
 ## Sakura Empire / IJN
@@ -33,8 +33,8 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Ayanami Kai](imgs/IJN/AyanamiKaiChibi.png) | Ayanami Kai | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
 | ![Jintsuu Kai](imgs/IJN/JintsuuKaiChibi.png) | Jintsuu Kai | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
+| ![Ayanami Kai](imgs/IJN/AyanamiKaiChibi.png) | Ayanami Kai | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
 | ![Mogami Kai](imgs/IJN/MogamiKaiChibi.png) | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
@@ -48,8 +48,8 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Fortune Kai](imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD | <details><summary>Cute little back line protector.</summary>She has a chance to evade all incoming attacks, and she helps your backline defense a little bit. *But please, stay quiet when you're fighting...*</details>
 | ![Belfast](imgs/HMS/BelfastChibi.png) | Belfast | CL | <details><summary>Poster maid of the HMS fleet.</summary>Belfast buffs her HE damage (shells only), and lays down a smokescreen to incease evasion from airstrikes. Decent boat to have.</details>
+| ![Fortune Kai](imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD | <details><summary>Cute little back line protector.</summary>She has a chance to evade all incoming attacks, and she helps your backline defense a little bit. *But please, stay quiet when you're fighting...*</details>
 | ![Aurora](imgs/HMS/AuroraChibi.png) | Aurora | CL | <details><summary>Sweet, charming cruiser.</summary>Her skill buffs her damage to small boats like destroyers, torpedo boats, etc... She also debuffs the evasion of enemy destroyers and light cruisers so long as she's alive.</details>
 
 ## Iron Blood / KMS
@@ -62,8 +62,8 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Z23 Kai](imgs/KMS/Z23KaiChibi.png) | Z23 Kai | DD | <details><summary>Hard-hitting gunboat with weak torps.</summary>Z23 hits hard and fast, rivaling that of even CL's. She has a powerful AP barrage that also launches torps, and even spawns a helpful pair of shields to block incoming fire. Just don't rely on the shields too much.</details>
 | ![Roon](imgs/KMS/RoonChibi.png) | Roon | CA | <details><summary>An oddball that switches ammo types.</summary>Roon is not only a yandere (and scary at that), but she's odd that her main gun switches ammo types betwen AP and HE. Not bad to use, but situational at times. She does have a powerful barrage that is both AP and HE that fires in three directions. Oh, and she spawns shields.</details>
+| ![Z23 Kai](imgs/KMS/Z23KaiChibi.png) | Z23 Kai | DD | <details><summary>Hard-hitting gunboat with weak torps.</summary>Z23 hits hard and fast, rivaling that of even CL's. She has a powerful AP barrage that also launches torps, and even spawns a helpful pair of shields to block incoming fire. Just don't rely on the shields too much.</details>
 | ![Z46](imgs/KMS/Z46Chibi.png) | Z46 | DD | <details><summary>Feisty little boat with that barrage of hers.</summary>She's a feisty one, as her AP barrage gets a buff from her skill (but for the love of Cubes, do not equip an AP gun on her; DD's do not like AP guns), and she can hit rapidly too. Oh, and she buffs herself every time she fires down a plane. Buff timer resets every time, but does not stack.</details>
 
 ## Submarines
