@@ -23,9 +23,9 @@ I have no real biases on which girls I use, just depends on what the skills they
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Montpelier](/imgs/USS/MontpelierChibi.png) | Montpelier | CL | [Triple 152mm MK 16][Triple 152mm mk16]<br />![Triple 152mm MK16](/imgs/Equip/Guns/152mm_triple_mk16.png) | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
+| ![Montpelier](/imgs/USS/MontpelierChibi.png) | Montpelier | CL | [Triple 152mm (6"/47 Mk 16) Mod 1][Triple 152mm PR]<br />![Triple 152mm MK16](/imgs/Equip/Guns/152mm_triple_pr.png) | [Twin 100mm (Type 98)][Twin 100mm T98]<br />![Twin 100mm T98](/imgs/Equip/Guns/100mm_twin_t98.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
 | ![Laffey](/imgs/USS/LaffeyKaiChibi.png) | Laffey | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Octuple 40mm Pom-Pom][Pom Pom]<br />![Pom Pom](/imgs/Equip/AntiAir/40mm_octuple_pom_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) |
-| ![Baltimore](/imgs/USS/BaltimoreChibi.png) | Baltimore | CA | [Twin 203mm (SK C/34)][Twin 203mm]<br />![Twin 203mm](/imgs/Equip/Guns/203mm_twin_skc34_sr.png) | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [Improved Boiler][Boiler]<br />![Improved Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) |
+| ![Baltimore](/imgs/USS/BaltimoreChibi.png) | Baltimore | CA | [Triple 203mm (SK C/34 Prototype)][Triple 203mm PR]<br />![Twin 203mm](/imgs/Equip/Guns/203mm_triple_pr.png) | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [Improved Boiler][Boiler]<br />![Improved Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) |
 
 ## Georgia Fleet
 ### Main Fleet
@@ -60,9 +60,9 @@ I have no real biases on which girls I use, just depends on what the skills they
 [PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
 [Pom Pom]: https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3
 [Boiler]: https://azurlane.koumakan.jp/Improved_Boiler#Type_3
-[Twin 203mm]: https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3
+[Triple 203mm PR]: https://azurlane.koumakan.jp/Triple_203mm_(SK_C/34_Prototype)
 [Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
-[Triple 152mm mk16]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3
+[Triple 152mm PR]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)_Mod_1
 [Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
 [Fire Control Radar]: https://azurlane.koumakan.jp/High_Performance_Fire_Control_Radar
 [Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
@@ -76,3 +76,4 @@ I have no real biases on which girls I use, just depends on what the skills they
 [610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
 [40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
 [SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
+[Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
