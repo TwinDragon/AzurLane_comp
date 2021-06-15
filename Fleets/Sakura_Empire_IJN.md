@@ -80,46 +80,50 @@ WIP Section
 
 ---
 
+[40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
+[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
+[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
+[Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
+
+[Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
+[Twin 130mm]: https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3
+[138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
+[Triple 152mm BL6]: https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)
+[Triple 152mm DP]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)
+[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
+[Triple 203mm 1934]: https://azurlane.koumakan.jp/Triple_203mm_(Mle_1934_Prototype)
+[Twin 203mm SKC34]: https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3
+[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
+[Triple 410mm Proto]: https://azurlane.koumakan.jp/Triple_410mm_(10th_Year_Type_Prototype)
+
 [533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
 [533mm Quint PR]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17
-[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
-[OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
-[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
-[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
-[Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
-[Triple 203mm 1934]: https://azurlane.koumakan.jp/Triple_203mm_(Mle_1934_Prototype)
-[PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
-[Triple 410mm Proto]: https://azurlane.koumakan.jp/Triple_410mm_(10th_Year_Type_Prototype)
-[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
-[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
-[Reppuu]: https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3
-[Firefly]: https://azurlane.koumakan.jp/Fairey_Firefly
-[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
-[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
-[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
-[Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
-[PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
-[Triple 152mm DP]: https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_17_DP_Prototype)
-[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
-[Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
-[SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
-[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
-[Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
-[Ryuusei]: https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3
 [610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
 [610mm Quad PR]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai
-[40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
-[138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
-[Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
-[Triple 152mm BL6]: https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)
-[Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
 [Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
-[Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
+
 [818 Swordfish]: https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron)
 [A6M5]: https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3
+[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
+[Firefly]: https://azurlane.koumakan.jp/Fairey_Firefly
+[Helldiver]: https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3
+[PR Helldiver]: https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental)
+[Reppuu]: https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3
+[Ryuusei]: https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3
+[Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
 [Suisei]: https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3
-[Twin 130mm]: https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3
-[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
-[Twin 203mm SKC34]: https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3
+[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+
+[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
+[Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
+[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
+[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
 [Fire Control Radar]: https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3
+[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
+[OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
+[PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
+[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
+[SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
+[Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
+[Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
