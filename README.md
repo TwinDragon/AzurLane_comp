@@ -90,4 +90,4 @@ Each section will also have a dedicated file for which faction they belong in th
 | --- | --- | --- |
 | ![ALbacore](imgs/USS/AlbacoreChibi.png) | Albacore | SS |
 | ![Cavalla](imgs/USS/CavallaChibi.png) | Cavalla | SS |
-| ![Dace](imgs/USS/DaceChibi.png) | Dace | SS |
+| ![Archerfish](imgs/USS/ArcherfishChibi.png) | Archerfish | SS |
