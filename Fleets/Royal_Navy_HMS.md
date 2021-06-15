@@ -48,42 +48,46 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 Yeah, I'm aware. Black Prince requires a USS ship to make use of her skill. This particular fleet is actually pretty specific in composition due to skill requirements.
 
 
-[533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
-[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
-[Twin 40mm Bofors]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_(Mk_1_Mount)#Type_3
-[Advanced Boiler]: https://azurlane.koumakan.jp/Improved_Boiler#Type_3
-[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
-[F4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair#Type_3
-[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
-[Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
-[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
-[Twin 134mm QF]: https://azurlane.koumakan.jp/Twin_134mm_(QF_Mark_II)#Type_3
 [40mm Pom-Pom]: https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3
-[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
-[Twin 150mm Tabasco]: https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3
-[610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
-[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
-[Gyroscope]: https://azurlane.koumakan.jp/Gyroscope#Type_3
-[Fire Control Radar]: https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3
-[Twin 410mm 3rd]: https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3
-[Triple 150mm SKC25]: https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)#Type_3
-[F6F]: https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3
-[Single 127mm MK30]: https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk_30)#Type_3
 [40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
-[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
+[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
+[Twin 40mm Bofors]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_(Mk_1_Mount)#Type_3
+[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
+[Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
+[Twin 127mm AA]: https://azurlane.koumakan.jp/Twin_127mm_AA_(Type_89)#Type_3
+
+[Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
+[Single 127mm MK30]: https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk_30)#Type_3
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
+[Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
+[Twin 134mm QF]: https://azurlane.koumakan.jp/Twin_134mm_(QF_Mark_II)#Type_3
+[Twin 150mm Tabasco]: https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3
+[Triple 150mm SKC25]: https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)#Type_3
+[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
+[Twin 381mm MkII]: https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II)
+[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
+[Twin 410mm 3rd]: https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3
+
+[533mm Magnet Torp]: https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo#Type_3
+[533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
+[610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
+
+[Avenger VT18]: https://azurlane.koumakan.jp/General_Motors_TBM_Avenger_(VT-18_Squadron)
+[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
+[F4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair#Type_3
+[F6F]: https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3
+[Firebrand]: https://azurlane.koumakan.jp/Blackburn_Firebrand
+[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+
+[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
+[Advanced Boiler]: https://azurlane.koumakan.jp/Improved_Boiler#Type_3
+[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
+[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
+[Fire Control Radar]: https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3
+[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
+[Gyroscope]: https://azurlane.koumakan.jp/Gyroscope#Type_3
 [OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
 [PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
-[533mm Magnet Torp]: https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo#Type_3
-[Twin 381mm MkII]: https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II)
-[Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
-[Twin 127mm AA]: https://azurlane.koumakan.jp/Twin_127mm_AA_(Type_89)#Type_3
-[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
+[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
 [SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
-[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
 [Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
-[Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
-[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
-[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
-[Firebrand]: https://azurlane.koumakan.jp/Blackburn_Firebrand
-[Avenger VT18]: https://azurlane.koumakan.jp/General_Motors_TBM_Avenger_(VT-18_Squadron)
