@@ -49,9 +49,9 @@ I have no real biases on which girls I use, just depends on what the skills they
 [40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
 [40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
 [Pom Pom]: https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3
+[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
 
 [Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
-[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
 [Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
 [Twin 130mm]: https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3
