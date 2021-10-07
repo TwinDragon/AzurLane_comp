@@ -13,7 +13,7 @@ Each section will also have a dedicated file for which faction they belong in th
 ### Enterprise
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![New Jersey](imgs/USS/New_JerseyChibi.png) | New Jersey | BB | <details><summary>Flagship BB of the USS Fleet.</summary>She gets big guns, her own special kind. She also has a frequent barrage that fires off frequently as well. She rivals, if not beat, in power to **Friedrich der Grosse**.</details>
+| ![New Jersey](imgs/USS/New_JerseyChibi.png) | New Jersey | BB | <details><summary>Flagship BB of the USS Fleet.</summary>She gets big guns, her own special kind. She also has a barrage that fires off frequently. She rivals, if not beat, in power to **Friedrich der Grosse**.</details>
 | ![Enterprise](imgs/USS/EnterpriseChibi.png) | Enterprise | CV | <details><summary>She hits **HARD**.</summary>If her skill procs, her aircraft will double their damage output.</details>
 | ![Essex](imgs/USS/EssexChibi.png) | Essex | CV | <details><summary>Protection carrier, and some additional effects.</summary>She provides some pretty good buffs to herself when in a USS fleet, not to mention helping out your ships in certain cases.</details>
 
