@@ -57,7 +57,7 @@ Each section will also have a dedicated file for which faction they belong in th
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
 | ![Bismarck](imgs/KMS/BismarckChibi.png) | Bismarck | BB | <details><summary>She hits hard, buffs your carrier, and helps Tirpitz.</summary>Bismarck helps Tirpitz get over her social anxiety while buffing all of your Iron Blood ships and vanguard. On top of that, she has a decent barrage when she's flagship.</details>
-| ![Tirpitz](imgs/KMS/TirpitzChibi.png) | Tirpitz | BB | <details><summary>Cater to her anxiety and she'll help you out.</summary>Alone, she does decent damage, but when sortied with other BB/BC's, then she gets nerfed. However, Bismarck let's her get over that anxiety. Decent BB, but don't count on those torps for a lot of damage.</details>
+| ![FDG](imgs/KMS/Friedrich_der_GrosseChibi.png) | Friedrich der Grosse | BB | <details><summary>Eternal Sonata of Chaos</summary>She's a flagship by her own rights, being one of the most powerful KMS BB's in the game. Equip her right and she sing songs to glory for your KMS fleet.</details>
 | ![Graf Zeppelin](imgs/KMS/Graf_ZeppelinChibi.png) | Graf Zeppelin | CV | <details><summary>The pinnacle of KMS carriers, she helps your vanguard too.</summary>Graf Zeppelin is a good carrier to have. Not only does she buff your vanguard by reducing the damage they take, she gets a buff herself for each KMS ship up to a stack of 3. Equip her with KMS Aircraft and she'll carry you to glory.</details>
 
 | Chibi | Name | Class | Reason 
