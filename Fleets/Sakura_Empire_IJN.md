@@ -96,7 +96,7 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Amagi](/imgs/IJN/AmagiChibi.png) | Amagi | BC | [Twin 381mm (BL 15" Mk II)][Twin 381mm]<br />![Twin 381mm](/imgs/Equip/Guns/381mm_twin_bl15mkii_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
 
-*Note: Momma boat here. She has a high chance to launch a barrage which does decent damage; throw on a rapid fire big gun to let that barrage go off and she can dish out some good damage. Oh, and she buffs like a bunch of your Japanese boats.*
+*Note: Mama boat here. She has a high chance to launch a barrage which does decent damage; throw on a rapid fire big gun to let that barrage go off and she can dish out some good damage. Oh, and she buffs like a bunch of your Japanese boats.*
 
 ### CV's
 
