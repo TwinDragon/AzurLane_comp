@@ -61,8 +61,6 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | [Twin 130mm (B-2LM)][Twin 130mm]<br />![Twin 130mm (B-2LM)](/imgs/Equip/Guns/130mm_twin_b-2lm.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 | ![Shimakaze](/imgs/IJN/ShimakazeChibi.png) | Shimakaze | DD | [Twin 100mm Type 98][Twin 100mm Type 98]<br />![Twin 100mm Type 98](/imgs/Equip/Guns/100mm_twin_t98.png) | [Quintuple 610mm][610mm Quint]<br />![610mm Quintuple](/imgs/Equip/Torps/610mm_quint_torp_ur.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
-*Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
-
 ### Submarine Frenzy
 
 I'm listing submarines as a formality to show what equipment I have on them. I have no real advice on subs as they are only supplemental torpedo damage that do help in some cases to dish out just that extra bit. Read their skills and pick which suit your needs.
