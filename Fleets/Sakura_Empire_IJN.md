@@ -10,7 +10,7 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 *Note 2: Some equipment I've chosen for the girls aren't the best, because getting upgrade plates at times is a lot harder than it needs to be, especially **General Plates** for auxillary items. It will be ever-changing, but I'll do my best to keep it updated.*
 
-## 1st Capitol Fleet
+## 1st Capital Fleet
 ### Main Fleet
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
@@ -23,8 +23,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [610mm Quadruple Kai][610mm Quad PR]<br />![610mm Quad Kai](/imgs/Equip/Torps/610mm_quad_pr.png) | [Twin 113mm AA (QF MKI)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
-| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![533mm Quintuple Mk17](/imgs/Equip/Torps/533mm_quint_pr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Air Radar][Air Radar]<br /> ![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
+| ![Jintsuu](/imgs/IJN/JintsuuKaiChibi.png) | Jintsuu | CL | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![610mm Quad Kai](/imgs/Equip/Torps/610mm_quad_pr.png) | [Twin 113mm AA (QF MKI)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Beaver Squad Tag](https://azurlane.koumakan.jp/Beaver_Squad_Tag)<br />![Beave Squad](/imgs/Equip/Auxillary/beaver_badge.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Ayanami](/imgs/IJN/AyanamiKaiChibi.png) | Ayanami | DD | [Twin 128mm/45 SK C/41][Twin 128mm SKC41]<br />![Twin 128mm](/imgs/Equip/Guns/128mm_twin_skc41_pr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![533mm Quintuple Mk17](/imgs/Equip/Torps/533mm_quint_pr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 | ![Mogami](/imgs/IJN/MogamiKaiChibi.png) | Mogami | CA | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934_sr.png) | [Quintuple 533mm Mk 17][533mm Quint PR]<br />![533mm Quintuple Mk17](/imgs/Equip/Torps/533mm_quint_pr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
 
 ## Yamato-class carrier, Shinano
@@ -87,6 +87,7 @@ WIP Section
 
 [Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
+[Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41
 [Twin 130mm]: https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3
 [138.6mm Single]: https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3
 [Triple 152mm BL6]: https://azurlane.koumakan.jp/Triple_152mm_(BL_6%22_Mk_XXV_Prototype)
