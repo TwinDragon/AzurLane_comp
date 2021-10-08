@@ -49,8 +49,8 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | [Mitsubishi A6M5 Zero][A6M5]<br />![A6M5 Zero](/imgs/Equip/Aircraft/Fighters/a6m5_zero.png) | [Yokosuka D4Y Suisei][Suisei]<br />![D4Y Suisei](/imgs/Equip/Aircraft/Dive/suisei.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
-| ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | [Mitsubishi A6M5 Zero][A6M5]<br />![A6M5 Zero](/imgs/Equip/Aircraft/Fighters/a6m5_zero.png) | [Yokosuka Suisei Model 12A][Suisei 12A]<br />![Suisei 12A](/imgs/Equip/Aircraft/Dive/suisei_12a.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Souryuu META](/imgs/IJN/Souryuu_METAChibi.png) | Souryuu META | CV | [Kawanishi N1K3-A Shidan Kai 2][Shidan Kai]<br />![Shidan Kai](/imgs/Equip/Aircraft/Fighters/shidan_kai.png) | [Yokosuka Suisei Model 12A][Suisei 12A]<br />![Suisei 12A](/imgs/Equip/Aircraft/Dive/suisei_12a.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 | ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 
 ### Vanguard
@@ -115,7 +115,9 @@ WIP Section
 [Reppuu]: https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3
 [Ryuusei]: https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3
 [Seiran]: https://azurlane.koumakan.jp/Aichi_M6A_Seiran
+[Shidan Kai]: https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2
 [Suisei]: https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3
+[Suisei 12A]: https://azurlane.koumakan.jp/Yokosuka_Suisei_Model_12A
 [VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
 
 [Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
