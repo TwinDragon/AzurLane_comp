@@ -76,7 +76,36 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 ## Notable Boatgirls
 ### DD's
 
-WIP Section
+| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Yukikaze](/imgs/IJN/YukikazeChibi.png) | Yukikaze | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [610mm Quadruple][610mm Quad PR]<br />![610mm Quad PR](/imgs/Equip/Torps/610mm_quad_pr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+
+*Note: Yukikaze is not bad boat to use, and if you want to use a ship that doesn't like to die quickly, put her in your fleet.*
+
+### CA's
+
+| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | [Twin 203mm (SK C/34)][Twin 203mm SKC34]<br />![Twin 203mm](/imgs/Equip/Guns/203mm_twin_skc34_sr.png) | [533mm Quintuple][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/fire_control_radar.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+
+*Note: Maya isn't that bad, but she's not the best CA to use in a Japanese fleet. Her only saving grace is that she has a chance to launch a second wave of torps, but even that is unreliable.*
+
+### BB / BC's
+
+| Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Amagi](/imgs/IJN/AmagiChibi.png) | Amagi | BC | [Twin 381mm (BL 15" Mk II)][Twin 381mm]<br />![Twin 381mm](/imgs/Equip/Guns/381mm_twin_bl15mkii_sr.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+
+*Note: Momma boat here. She has a high chance to launch a barrage which does decent damage; throw on a rapid fire big gun to let that barrage go off and she can dish out some good damage. Oh, and she buffs like a bunch of your Japanese boats.*
+
+### CV's
+
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Hiryuu](/imgs/IJN/HiryuuKaiChibi.png) | Hiryuu | CV | [Mitsubishi A6M5 Zero][A6M5]<br />![A6M5 Zero](/imgs/Equip/Aircraft/Fighters/a6m5_zero.png) | [Yokosuka Suisei Model 12A][Suisei 12A]<br />![Suisei 12A](/imgs/Equip/Aircraft/Dive/suisei_12a.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | [Kawanishi N1K3-A Shidan Kai 2][Shidan Kai]<br />![Shidan Kai](/imgs/Equip/Aircraft/Fighters/shidan_kai.png) | [Yokosuka Suisei Model 12A][Suisei 12A]<br />![Suisei 12A](/imgs/Equip/Aircraft/Dive/suisei_12a.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+
+*Note: The bunny sisters are really good when you pair them together, especially after their retrofit. Also, if you noticed the equipment is the same as their META variants, they are interchangeable. Use whichever suits your needs.*
 
 ---
 
@@ -96,6 +125,7 @@ WIP Section
 [Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
 [Triple 203mm 1934]: https://azurlane.koumakan.jp/Triple_203mm_(Mle_1934_Prototype)
 [Twin 203mm SKC34]: https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3
+[Twin 381mm]: https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II)
 [Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
 [Triple 410mm Proto]: https://azurlane.koumakan.jp/Triple_410mm_(10th_Year_Type_Prototype)
 
