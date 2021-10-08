@@ -80,7 +80,7 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Yukikaze](/imgs/IJN/YukikazeChibi.png) | Yukikaze | DD | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/127mm_twin_gun_sr.png) | [610mm Quadruple][610mm Quad PR]<br />![610mm Quad PR](/imgs/Equip/Torps/610mm_quad_pr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
-*Note: Yukikaze is not bad boat to use, and if you want to use a ship that doesn't like to die quickly, put her in your fleet.*
+*Note: Yukikaze is not a bad boat to use, and if you want to use a ship that doesn't like to die quickly, put her in your fleet.*
 
 ### CA's
 
