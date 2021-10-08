@@ -51,15 +51,15 @@ My fleets have a bias towards IJN girls, so y'all are going to see a bit more co
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Hiryuu META](/imgs/IJN/Hiryuu_METAChibi.png) | Hiryuu META | CV | [Mitsubishi A6M5 Zero][A6M5]<br />![A6M5 Zero](/imgs/Equip/Aircraft/Fighters/a6m5_zero.png) | [Yokosuka D4Y Suisei][Suisei]<br />![D4Y Suisei](/imgs/Equip/Aircraft/Dive/suisei.png) | [Aichi B7A Ryuusei][Ryuusei]<br />![Ryuusei](/imgs/Equip/Aircraft/Torp/ryuusei_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 | ![Souryuu](/imgs/IJN/SouryuuKaiChibi.png) | Souryuu | CV | [Mitsubishi A7M Reppuu][Reppuu]<br />![Reppuu](/imgs/Equip/Aircraft/Fighters/a7m_reppuu.png) | [Curtiss SB2C Helldiver][Helldiver]<br />![SB2C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_elite.png) | [Fairey Barracuda][Barracuda]<br />![Fairey Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
-| ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+| ![Tosa](/imgs/IJN/TosaChibi.png) | Tosa | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/406mm_twin_SKC34_prototype.png) | [Triple 155mm 3rd Year Type][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Ibuki](/imgs/IJN/IbukiChibi.png) | Ibuki | CL | [Triple 203mm MLE 1934 Proto][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/203mm_triple_mle1934_sr.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) |
-| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | [Twin 130mm (B-2LM)][Twin 130mm]<br />![Twin 130mm (B-2LM)](/imgs/Equip/Guns/130mm_twin_b-2lm.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Fuel Filter][Fuel Filter]<br />![Fuel Filter](/imgs/Equip/Auxillary/fuel_filter.png) |
-| ![Maya](/imgs/IJN/MayaChibi.png) | Maya | CA | [Twin 203mm (SK C/34)][Twin 203mm SKC34]<br />![Twin 203mm SKC34](/imgs/Equip/Guns/203mm_twin_skc34_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/fire_control_radar.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Kitakaze](/imgs/IJN/KitakazeChibi.png) | Kitakaze | DD | [Twin 130mm (B-2LM)][Twin 130mm]<br />![Twin 130mm (B-2LM)](/imgs/Equip/Guns/130mm_twin_b-2lm.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Shimakaze](/imgs/IJN/ShimakazeChibi.png) | Shimakaze | DD | [Twin 100mm Type 98][Twin 100mm Type 98]<br />![Twin 100mm Type 98](/imgs/Equip/Guns/100mm_twin_t98.png) | [Quintuple 610mm][610mm Quint]<br />![610mm Quintuple](/imgs/Equip/Torps/610mm_quint_torp_ur.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
 *Note: Maya is alright for a heavy cruiser, but I think I have a candidate to change her out for someone better suited. Going to double check things at a later date and test.*
 
@@ -85,6 +85,7 @@ WIP Section
 [Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
 [Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
 
+[Twin 100mm Type 98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
 [Triple 102mm]: https://azurlane.koumakan.jp/Triple_102mm_(BL_4%22_Mk_IX)#Type_3
 [Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
 [Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41
@@ -102,6 +103,7 @@ WIP Section
 [533mm Quint PR]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17
 [610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
 [610mm Quad PR]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai
+[610mm Quint]: https://azurlane.koumakan.jp/610mm_Quintuple_Torpedo_Mount
 [Type95 Torp]: https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3
 
 [818 Swordfish]: https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron)
