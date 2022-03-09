@@ -38,7 +38,7 @@ Each section will also have a dedicated file for which faction they belong in th
 | ![Mogami Kai](imgs/IJN/MogamiKaiChibi.png) | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
-*Note: I will be redoing my HMS fleet at some point in the future. Though the girls are fine, but I'm going to do a complete overhaul of my HMS fleet for a better composition than what I have now. The reason is because back when I made this fleet, HMS didn't have that many good ships and this was well over a year ago. Now that a few events happened, more HMS ships are available, there are better possibilities now.*
+*Note: I now have a viable HMS fleet I can use and this section will get updated pretty soon. Stay tuned~.*
 ### Meido
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ Each section will also have a dedicated file for which faction they belong in th
 | ![Aurora](imgs/HMS/AuroraChibi.png) | Aurora | CL | <details><summary>Sweet, charming cruiser.</summary>Her skill buffs her damage to small boats like destroyers, torpedo boats, etc... She also debuffs the evasion of enemy destroyers and light cruisers so long as she's alive.</details>
 
 ## Iron Blood / KMS
+*Note: Roon hasn't proven to be that great of a ship after using her for a while, so I'll be swapping her out with Prinz Heinrich in the near future. That'll be coming real soon.*
 ### Ryuu
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
