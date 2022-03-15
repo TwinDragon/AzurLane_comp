@@ -7,7 +7,7 @@ From the frigid waters, these boats don't know when to sink at times. Their torp
 
 I'm not overly familiar with the Russian ships, but from what I have read, the general consensus is they have some good guns, torps are fairly bad, but the skills they have sometimes makes up for a bit of their shortfalls. Most of these ships are from WWI, and the rigging shows at times with their frigid look.
 
-On a lesser note, if you want barrages, Russia has barrages. Fire a few shots? BARAGE! Fire a few more shots? HAVE ANOTHER BARRAGE! Got some more shots being fired? HERE'S ANOTHER BARRAGE! All the barrages are probably good for mob fleet duty. (Also, we got a Russian CV finally.)
+On a lesser note, if you want barrages, Russia has barrages. Fire a few shots? BARRAGE! Fire a few more shots? HAVE ANOTHER BARRAGE! Got some more shots being fired? HERE'S ANOTHER BARRAGE! All the barrages are probably good for mob fleet duty. (Also, we got a Russian CV finally.)
 
 ## For Mother Russia!
 ### Main Fleet
