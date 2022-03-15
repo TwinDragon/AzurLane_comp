@@ -80,6 +80,8 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 
 *Note: Yukikaze is not a bad boat to use, and if you want to use a ship that doesn't like to die quickly, put her in your fleet.*
 
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Suzutsuki](/imgs/IJN/SuzutsukiChibi.png) | Suzutsuki | DD | [Single 138.6mm MLE 1929][138.6mm Single]<br />![138.6mm Single](/imgs/Equip/Guns/138.6mm_mle1929_single.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Repair Toolkit][Toolbox]<br />![Toolbox](/imgs/Equip/Auxillary/toolbox.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
 
 *Note: Suzu-chan is a boat that knows some barrages with her torps. She's a good DD to have, so put her in your fleet if you need some extra torpedo power.*
@@ -109,10 +111,14 @@ I'm listing submarines as a formality to show what equipment I have on them. I h
 
 *Note: The bunny sisters are really good when you pair them together, especially after their retrofit. Also, if you noticed the equipment is the same as their META variants, they are interchangeable. Use whichever suits your needs.*
 
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Taihou](/imgs/IJN/TaihouChibi.png) | Taihou | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Curtiss XSB3C (Experimental)][PR Helldiver]<br />![XSB3C Helldiver](/imgs/Equip/Aircraft/Dive/helldiver_exp_sr.png) | [Douglas XTB2D-1 Skypirate][Skypirate]<br />![Skypirate](/imgs/Equip/Aircraft/Torp/xtb2d_skypirate.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 *Note: She's a terrifying ship to go up against. Almost to the same degree as Shinano, as she will launch additional aircraft that do different bombs or torps depending on which fires off. She's an excellent carrier to bring with you.*
 
+| Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | ![Ryuuhou](/imgs/IJN/RyuuhouChibi.png) | Ryuuhou | CVL | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Fairey Swordfish (818 Squadron)][818 Swordfish]<br />![Fairey Swordfish 818](/imgs/Equip/Aircraft/Torp/swordfish_818.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 *Note: Ryuuhou is a little situational, but she does make a good carrier that heals. Arguably, she could be a bit better than Shouhou healing-wise, but her aircraft won't do nearly as much damage. However, if you are up against a fair amount of enemy submarine fire, then her buff against those for your vanguard could come in handy.*
