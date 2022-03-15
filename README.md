@@ -38,19 +38,18 @@ Each section will also have a dedicated file for which faction they belong in th
 | ![Mogami Kai](imgs/IJN/MogamiKaiChibi.png) | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
 
 ## Royal Navy / HMS
-*Note: I now have a viable HMS fleet I can use and this section will get updated pretty soon. Stay tuned~.*
 ### Meido
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Warspite Kai](imgs/HMS/WarspiteKaiChibi.png) | Warspite Kai | BB | <details><summary>Backline Deleter.</summary>Warspite makes her namesake as the backline deleter if you take her for the exercises. Otherwise, she has crazy high accuracy that's terrifying, and overall powerful.</details>
+| ![Monarch](imgs/HMS/MonarchChibi.png) | Monarch | BB | <details><summary>Hood, but a BB.</summary>Monarch is basically an AP version of HMS Hood, but in BB form. This requires her to be flagship to make the most use out of her barrage. Otherwise, she hits hard, and hits Sirens harder.</details>
 | ![Unicorn](imgs/HMS/UnicornChibi.png) | Unicorn | CVL | <details><summary>The little cutie of healers.</summary>Unicorn is an excellent defense-focused CVL that heals your vanguard every time her aircraft launch.</details>
 | ![Illustrious](imgs/HMS/IllustriousChibi.png) | Illustrious | CV | <details><summary>My god those boobs... *cough*</summary>In all seriousness, Illustrious is a defense-oriented CV, having 2 fighter slots and a skill that protects your vanguard from all damage for a few seconds when her aircraft launch.</details>
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Belfast](imgs/HMS/BelfastChibi.png) | Belfast | CL | <details><summary>Poster maid of the HMS fleet.</summary>Belfast buffs her HE damage (shells only), and lays down a smokescreen to incease evasion from airstrikes. Decent boat to have.</details>
-| ![Fortune Kai](imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD | <details><summary>Cute little back line protector.</summary>She has a chance to evade all incoming attacks, and she helps your backline defense a little bit. *But please, stay quiet when you're fighting...*</details>
-| ![Aurora](imgs/HMS/AuroraChibi.png) | Aurora | CL | <details><summary>Sweet, charming cruiser.</summary>Her skill buffs her damage to small boats like destroyers, torpedo boats, etc... She also debuffs the evasion of enemy destroyers and light cruisers so long as she's alive.</details>
+| ![Neptune](imgs/HMS/NeptuneChibi.png) | Neptune | CL | <details><summary>AA for your Queen.</summary>She's got anti-air to back up your fleet from planes. Also, she boosts her own AP shells, so bring those too. And she can self-heal? What's not to like. She's a maid too.</details>
+| ![Javelin Kai](imgs/HMS/JavelinKaiChibi.png) | Javelin Kai | DD | <details><summary>She's bringing that bento!</summary>Her Kai really bolstered her where she was just a mediocre ship before. She's also got very high evasion and an AP barrage from her retrofit. And she's cute.</details>
+| ![London Kai](imgs/HMS/LondonKaiChibi.png) | London Kai | CA | <details><summary>The maid that boosts FP.</summary>She boosts your entire vanguards firepower by 15%, regardless of faction. Plus, she gets more accurate every time she sinks an enemy.</details>
 
 ## Iron Blood / KMS
 *Note: Roon hasn't proven to be that great of a ship after using her for a while, so I'll be swapping her out with Prinz Heinrich in the near future. That'll be coming real soon.*
