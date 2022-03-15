@@ -52,19 +52,18 @@ Each section will also have a dedicated file for which faction they belong in th
 | ![London Kai](imgs/HMS/LondonKaiChibi.png) | London Kai | CA | <details><summary>The maid that boosts FP.</summary>She boosts your entire vanguards firepower by 15%, regardless of faction. Plus, she gets more accurate every time she sinks an enemy.</details>
 
 ## Iron Blood / KMS
-*Note: Roon hasn't proven to be that great of a ship after using her for a while, so I'll be swapping her out with Prinz Heinrich in the near future. That'll be coming real soon.*
 ### Ryuu
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Bismarck](imgs/KMS/BismarckChibi.png) | Bismarck | BB | <details><summary>She hits hard, buffs your carrier, and helps Tirpitz.</summary>Bismarck helps Tirpitz get over her social anxiety while buffing all of your Iron Blood ships and vanguard. On top of that, she has a decent barrage when she's flagship.</details>
-| ![FDG](imgs/KMS/Friedrich_der_GrosseChibi.png) | Friedrich der Grosse | BB | <details><summary>Eternal Sonata of Chaos</summary>She's a flagship by her own rights, being one of the most powerful KMS BB's in the game. Equip her right and she sing songs to glory for your KMS fleet.</details>
+| ![Ulrich](imgs/KMS/UlrichChibi.png) | Ulrich von Hutten | BB | <details><summary>Somewhat New Jersey for your KMS.</summary>She fires a barrage everytime her main guns fire off, much like New Jersey. On top of that, she hits incredibly hard against others. On top of the other myriad of buffs or debuffs she does, very worthy to have in your fleet.</details>
+| ![Peter Strasser](imgs/KMS/Peter_StrasserChibi.png) | Peter Strasser | CV | <details><summary>Slows enemies, and gets KMS buffs.</summary>Peter Strasser may not be in the same light as Graf Zeppelin, but she does get buffs from being in a KMS fleet, and she reduces reload of CV and CVL's for the first 3 rounds. Formiddable in her own right.</details>
 | ![Graf Zeppelin](imgs/KMS/Graf_ZeppelinChibi.png) | Graf Zeppelin | CV | <details><summary>The pinnacle of KMS carriers, she helps your vanguard too.</summary>Graf Zeppelin is a good carrier to have. Not only does she buff your vanguard by reducing the damage they take, she gets a buff herself for each KMS ship up to a stack of 3. Equip her with KMS Aircraft and she'll carry you to glory.</details>
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Roon](imgs/KMS/RoonChibi.png) | Roon | CA | <details><summary>An oddball that switches ammo types.</summary>Roon is not only a yandere (and scary at that), but she's odd that her main gun switches ammo types betwen AP and HE. Not bad to use, but situational at times. She does have a powerful barrage that is both AP and HE that fires in three directions. Oh, and she spawns shields.</details>
-| ![Z23 Kai](imgs/KMS/Z23KaiChibi.png) | Z23 Kai | DD | <details><summary>Hard-hitting gunboat with weak torps.</summary>Z23 hits hard and fast, rivaling that of even CL's. She has a powerful AP barrage that also launches torps, and even spawns a helpful pair of shields to block incoming fire. Just don't rely on the shields too much.</details>
+| ![Leipzig Kai](imgs/KMS/LeipzigKaiChibi.png) | Leipzig Kai | CL | <details><summary>Cruiser buffer, and more speed!</summary>Leipzig buffs your cruisers in the fleet, as well as increasing the speed of your vanguard. On top of this, she'll temporarily evade all enemy fire when her health is low, and a damage buff until the end of the battle.</details>
 | ![Z46](imgs/KMS/Z46Chibi.png) | Z46 | DD | <details><summary>Feisty little boat with that barrage of hers.</summary>She's a feisty one, as her AP barrage gets a buff from her skill (but for the love of Cubes, do not equip an AP gun on her; DD's do not like AP guns), and she can hit rapidly too. Oh, and she buffs herself every time she fires down a plane. Buff timer resets every time, but does not stack.</details>
+| ![Prinz Heinrich](imgs/KMS/PrinzHeinrichChibi.png) | Prinz Heinrich | CA | <details><summary>Big boat guns.</summary>She's not remarkable, but she gets a self-buff for having another KMS boat in your fleet. And she always fires a barrage every 20 seconds, can't complain there.</details>
 
 ## Submarines
 *Subs are in a class of their own as they provide supplemental torpedo power. They can help if you have the extra oil to spare. In many cases, their barrages won't matter much, so put your favorite submarine as the first slot if you want.*
