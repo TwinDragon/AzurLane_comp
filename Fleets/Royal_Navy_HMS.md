@@ -13,81 +13,99 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Warspite Kai](/imgs/HMS/WarspiteKaiChibi.png) | Warspite Kai | BB | [Twin 410mm (3rd Year Type)][Twin 410mm 3rd]<br />![Twin 410mm 3rd](/imgs/Equip/Guns/bb/410mm_twin_3rd.png) | [Triple 150mm (SK C/25)][Triple 150mm SKC25]<br />![Triple 150mm](/imgs/Equip/Guns/cl/150mm_triple_skc25.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Fire Control Radar][Fire Control Radar]<br />![Fire Control Radar](/imgs/Equip/Auxillary/fire_control_radar.png) |
-| ![Unicorn](/imgs/HMS/UnicornChibi.png) | Unicorn | CVL | [F4U Corsair][F4U]<br />![F4U Corsair](/imgs/Equip/Aircraft/Fighters/f4u_corsair_elite.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Twin 113mm AA (QF Mark I)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
-| ![Illustrious](/imgs/HMS/IllustriousChibi.png) | Illustrious | CV | [Grumman F6F Hellcat][F6F]<br />![F6F Hellcat](/imgs/Equip/Aircraft/Fighters/f6f_hellcat.png) | [F4U Corsair][F4U]<br />![F4U Corsair](/imgs/Equip/Aircraft/Fighters/f4u_corsair_elite.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Vanguard](/imgs/HMS/VanguardChibi.png) | Vanguard | BB | [Twin 410mm (3rd Year Type)][Twin 410mm 3rd]<br />![Twin 410mm 3rd](/imgs/Equip/Guns/bb/410mm_twin_3rd.png) | [Triple 150mm (SK C/25)][Triple 150mm SKC25]<br />![Triple 150mm](/imgs/Equip/Guns/cl/150mm_triple_skc25.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [6CRH Armor Piercing Shell][6CRH]<br />![6CRH](/imgs/Equip/Auxillary/6crh_ap_shell.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) |
+| ![Perseus](/imgs/HMS/PerseusChibi.png) | Perseus | CVL | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Nakajima C6N Saiun (Model 21 Prototype)][Saiun Kai]<br />![Saiun Kai](/imgs/Equip/Aircraft/Torp/saiun_kai.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Illustrious](/imgs/HMS/IllustriousChibi.png) | Illustrious | CV | [Grumman F6F Hellcat (HVAR-Mounted)][F6F HVAR]<br />![F6F HVAR](/imgs/Equip/Aircraft/Fighters/f6f_hellcat_hvar.png) | [de Havilland Sea Hornet][Sea Hornet]<br />![Sea Hornet](/imgs/Equip/Aircraft/Fighters/sea_hornet.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+
+*Note: Illustrious has two fighter slots, so in maps that don't call for heavy damage against light armor, one can swap the F6F Hellcat HVAR for some other fighter, such as the VF4U Corsair, or an F7F Tigercat, etc... Or, if you are going up against a lot of light armor and AA is not a concern, equip both slots with Hellcat HVAR's to obliterate light armor. I recommend at least keeping one for passive AA though.*
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Fortune Kai](/imgs/HMS/FortuneKaiChibi.png) | Fortune Kai | DD | [Twin 134mm (QF Mark II)][Twin 134mm QF]<br />![Twin 134mm QF](/imgs/Equip/Guns/dd/134mm_twin_qf.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Octuple 40mm Pom-Pom][40mm Pom-Pom]<br />![40mm Pom-Pom](/imgs/Equip/AntiAir/40mm_octuple_pom_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Air Radar][Air Radar]<br />![Air Radar](/imgs/Equip/Auxillary/air_radar_elite.png) |
-| ![Belfast](/imgs/HMS/BelfastChibi.png) | Belfast | CL | [Triple 155mm (3rd Year Type)][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/cl/155mm_triple_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 40mm Bofors (Mk 1 Mount)][Twin 40mm Bofors]<br />![Twin 40mm Bofors](/imgs/Equip/AntiAir/40mm_twin_bofors_mk1.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
-| ![Aurora](/imgs/HMS/AuroraChibi.png) | Aurora | CL | [Twin 150mm (TbtsK C/36)][Twin 150mm Tabasco]<br />![Twin 150mm](/imgs/Equip/Guns/cl/150mm_twin_tbtsk.png) | [610mm Quadruple][610mm Quad]<br />![610mm Quad](/imgs/Equip/Torps/610mm_quad_torp_sr.png) | [Twin 105mm (SK C/33)][Twin 105mm AA]<br />![105mm Twin SK C](/imgs/Equip/AntiAir/105mm_twin_skc_sr.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) | [Gyroscope][Gyroscope]<br />![Gyroscope](/imgs/Equip/Auxillary/gyroscope.png) |
-
-*Big Note: I'm well aware the **SG Radar** don't stack. Just ended up getting lazy about switching them out. I will in the future.*
+| ![Cheshire](/imgs/HMS/CheshireChibi.png) | Cheshire | CA | [Triple 203mm (8"/55 Mk 15 SHS)][Triple 203mm Mk15]<br />![Triple 203mm Mk15](/imgs/Equip/Guns/ca/203mm_triple_mk15.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
+| ![Janus](/imgs/HMS/JanusChibi.png) | Janus | DD | [Twin 100mm (Type 98)][Twin 100mm T98]<br />![Twin 100mm T98](/imgs/Equip/Guns/dd/100mm_twin_t98.png) | [533mm Quintuple Homing Torpedo Mount][533mm Quint Homing]<br />![533mm Homing Quintuple](/imgs/Equip/Torps/533mm_quint_homing_torp_ur.png) | [Octuple 40mm Pom-Pom][40mm Pom-Pom]<br />![40mm Pom-Pom](/imgs/Equip/AntiAir/40mm_octuple_pom_sr.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) | [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) |
+| ![Neptune](/imgs/HMS/NeptuneChibi.png) | Neptune | CL | [Prototype Quadruple 152mm Main Gun Mount][Quad 152mm Proto]<br />![Twin 150mm](/imgs/Equip/Guns/cl/152mm_quad_proto.png) | [533mm Quintuple Homing Torpedo Mount][533mm Quint UR]<br />![533mm Homing Quintuple](/imgs/Equip/Torps/533mm_quint_homing_torp_ur.png) | [Twin 113mm AA (QF Mark I)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) |
 
 ## More Medio
 ### Main Fleet
 
 | Chibi | Name | Class | Main Gun / Aircraft | Secondary / Aircraft | Anti-Air / Aircraft | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Hood](/imgs/HMS/HoodChibi.png) | Hood | BC | [Twin 381mm (BL 15" Mk II)][Twin 381mm MkII]<br />![Twin 381mm](/imgs/Equip/Guns/bb/381mm_twin_bl15mkii_sr.png) | [Twin 100mm (Type 98)][Twin 100mm T98]<br />![Twin 100mm T98](/imgs/Equip/Guns/dd/100mm_twin_t98.png) | [Twin 127mm AA (Type 89)][Twin 127mm AA]<br />![Twin 127mm AA](/imgs/Equip/AntiAir/127mm_aa_t89.png) | [Autoloader][Autoloader]<br />![Autoloader](/imgs/Equip/Auxillary/autoloader.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) |
-| ![Georgia](/imgs/USS/GeorgiaChibi.png) | Georgia | BB | [Twin 406mm SK C/34 Prototype][Twin 406mm]<br />![Twin 406mm](/imgs/Equip/Guns/bb/406mm_twin_SKC34_prototype.png) | [Twin 128mm (SK C/41)][Twin 128mm SKC41]<br />![Twin 128mm SKC41](/imgs/Equip/Guns/128mm_twin_skc41_elite.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) | [Type 1 Armor Piercing Shell][Type 1]<br />![Type 1 Shell](/imgs/Equip/Auxillary/type1_piercing_sr.png) |
-| ![Formidable](/imgs/HMS/FormidableChibi.png) | Formidable | CV | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [General Motors TBM Avenger (VT-18 Squadron)][Avenger VT18]<br />![Avenger VT18](/imgs/Equip/Aircraft/Torp/tbm_avenger_vt18.png) | [Blackburn Firebrand][Firebrand]<br />![Blackburn Firebrand](/imgs/Equip/Aircraft/Torp/blackburn_firebrand.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Monarch](/imgs/HMS/MonarchChibi.png) | Monarch | BB | [Twin 406mm (SK C/34 Prototype)][Twin 406mm Proto]<br />![Twin 406mm Prototype](/imgs/Equip/Guns/bb/406mm_twin_SKC34_prototype.png) | [Triple 155mm (3rd Year Type)][Triple 155mm]<br />![Triple 155mm](/imgs/Equip/Guns/cl/155mm_triple_sr.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [High Performance Fire Control Radar][PR Fire Control]<br />![PR Fire Control Radar](/imgs/Equip/Auxillary/high_perf_fire_radar_sr.png) | [Super Heavy Shell][SHS]<br />![SHS](/imgs/Equip/Auxillary/super_heavy_shell_sr.png) |
+| ![Unicorn Kai](/imgs/HMS/UnicornKaiChibi.png) | Unicorn | CVL | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Twin 113mm AA (QF Mark I)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
+| ![Formidable](/imgs/HMS/FormidableChibi.png) | Formidable | CV | [de Havilland Sea Hornet][Sea Hornet]<br />![Sea Hornet](/imgs/Equip/Aircraft/Fighters/sea_hornet.png) | [Westland Wyvern][Wyvern]<br />![Westland Wyvern](/imgs/Equip/Aircraft/Torp/wyvern.png) | [Douglas XTB2D-1 Skypirate][Skypirate]<br />![Skypirate](/imgs/Equip/Aircraft/Torp/xtb2d_skypirate.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Dido](/imgs/HMS/DidoChibi.png) | Dido | CL | [Twin 127mm (5"/38 Mk 38)][Twin 127mm MK38]<br />![Twin 127mm](/imgs/Equip/Guns/dd/127mm_twin_gun_sr.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) |  [Type 93 Pure Oxygen Torpedo][OxyTorp]<br />![Type 93 Oxygen Torpedo](/imgs/Equip/Auxillary/oxytorp_ur.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
-| ![Javelin Kai](/imgs/HMS/JavelinKaiChibi.png) | Javelin Kai | DD | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/dd/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Fuel Filter][Fuel Filter]<br />![Fuel Filter](/imgs/Equip/Auxillary/fuel_filter.png) | [Advanced Boiler][Advanced Boiler]<br />![Advanced Boiler](/imgs/Equip/Auxillary/advanced_boiler_elite.png) |
-| ![Black Prince](/imgs/HMS/Black_PrinceChibi.png) | Black Prince | CL | [Single 127mm (5"/30 Mk 30)][Single 127mm MK30]<br />![Single 127mm MK30](/imgs/Equip/Guns/dd/127mm_single_mk30.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [533mm Magnetic Torpedo][533mm Magnet Torp]<br />![533 Magnetic Torpedo](/imgs/Equip/Auxillary/533mm_magnet_torp.png) |
-
-***Georgia?!?!?!** - BUT THIS IS AN HMS FLEET YOU NIT!*  
-Yeah, I'm aware. Black Prince requires a USS ship to make use of her skill. This particular fleet is actually pretty specific in composition due to skill requirements.
+| ![Belfast](/imgs/HMS/BelfastChibi.png) | Belfast | CL | [Triple 155mm (3rd Year Type) Kai][Triple 155mm Kai]<br />![Triple 155mm Kai](/imgs/Equip/Guns/cl/155mm_triple_kai.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Twin 113mm AA (QF Mark I)][Twin 113mm AA]<br />![Twin 113mm AA](/imgs/Equip/AntiAir/113mm_twin_qf_sr.png) | [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [SG Radar][SG Radar]<br />![SG Radar](/imgs/Equip/Auxillary/sg_radar.png) |
+| ![Javelin Kai](/imgs/HMS/JavelinKaiChibi.png) | Javelin | DD | [Twin 114mm (QF Mk IV)][Twin 114mm MkIV]<br />![Twin 144mm MkIV](/imgs/Equip/Guns/dd/114mm_twin_qfmkiv.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [J-Class Crown][J-Class Crown]<br />![J-Class Crown](/imgs/Equip/Auxillary/j-crown.png) | [Repair Toolkit][Toolbox]<br />![Toolbox](/imgs/Equip/Auxillary/toolbox.png) |
+| ![London Kai](/imgs/HMS/LondonKaiChibi.png) | London | CA | [Triple 203mm (Mle 1934 Prototype)][Triple 203mm 1934]<br />![Triple 203mm 1934](/imgs/Equip/Guns/ca/203mm_triple_mle1934_sr.png) | [Twin 135mm (Model 1938)][Twin 135mm 1938]<br />![Twin 135mm 1938](/imgs/Equip/Guns/dd/135mm_twin_1938.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) |  [Improved Hydraulic Rudder][PR Rudder]<br />![PR Rudder](/imgs/Equip/Auxillary/pr_hydraulic_rudder_sr.png) | [High Performance Anti-Air Radar][Anti-Air Radar]<br />![Anti-Air Radar](/imgs/Equip/Auxillary/high_performance_anti-air.png) |
 
 
-[40mm Pom-Pom]: https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3
-[40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
-[40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
-[Twin 40mm Bofors]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_(Mk_1_Mount)#Type_3
-[Twin 105mm AA]: https://azurlane.koumakan.jp/Twin_105mm_AA_(SK_C/33)#Type_3
-[Twin 113mm AA]: https://azurlane.koumakan.jp/Twin_113mm_AA_(QF_Mark_I)#Type_3
-[Twin 127mm AA]: https://azurlane.koumakan.jp/Twin_127mm_AA_(Type_89)#Type_3
+[40mm Pom-Pom]: https://azurlane.koumakan.jp/wiki/Octuple_40mm_Pom-Pom#Type_3-0
+[40mm Bofors]: https://azurlane.koumakan.jp/wiki/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3-0
+[40mm STAAG]: https://azurlane.koumakan.jp/wiki/Twin_40mm_Bofors_STAAG
+[Twin 40mm Bofors]: https://azurlane.koumakan.jp/wiki/Twin_40mm_Bofors_(Mk_1_Mount)#Type_3-0
+[Twin 105mm AA]: https://azurlane.koumakan.jp/wiki/Twin_105mm_AA_(SK_C/33)#Type_3-0
+[Twin 113mm AA]: https://azurlane.koumakan.jp/wiki/Twin_113mm_AA_(QF_Mark_I)#Type_3-0
+[Twin 127mm AA]: https://azurlane.koumakan.jp/wiki/Twin_127mm_AA_(Type_89)#Type_3-0
 
-[Twin 100mm T98]: https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3
-[Single 127mm MK30]: https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk_30)#Type_3
-[Twin 127mm MK38]: https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk_38)#Type_3
-[Twin 128mm SKC41]: https://azurlane.koumakan.jp/Twin_128mm_(SK_C/41)#Type_3
-[Twin 134mm QF]: https://azurlane.koumakan.jp/Twin_134mm_(QF_Mark_II)#Type_3
-[Twin 150mm Tabasco]: https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3
-[Triple 150mm SKC25]: https://azurlane.koumakan.jp/Triple_150mm_(SK_C/25)#Type_3
-[Triple 155mm]: https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3
-[Twin 381mm MkII]: https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II)
-[Twin 406mm]: https://azurlane.koumakan.jp/Twin_406mm_(SK_C/34_Prototype)
-[Twin 410mm 3rd]: https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3
+[Twin 100mm T98]: https://azurlane.koumakan.jp/wiki/Twin_100mm_(Type_98)#Type_3-0
+[Twin 114mm MkIV]: https://azurlane.koumakan.jp/wiki/Twin_114mm_(QF_Mk_IV)
+[Single 127mm MK30]: https://azurlane.koumakan.jp/wiki/Single_127mm_(5%22/38_Mk_30)#Type_3-0
+[Twin 127mm MK38]: https://azurlane.koumakan.jp/wiki/Twin_127mm_(5%22/38_Mk_38)#Type_3-0
+[Twin 128mm SKC41]: https://azurlane.koumakan.jp/wiki/Twin_128mm_(SK_C/41)#Type_3-0
+[Twin 134mm QF]: https://azurlane.koumakan.jp/wiki/Twin_134mm_(QF_Mark_II)#Type_3-0
+[Twin 135mm 1938]: https://azurlane.koumakan.jp/wiki/Twin_135mm_(Model_1938)#Type_3-0
 
-[533mm Magnet Torp]: https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo#Type_3
-[533mm Quint]: https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3
-[610mm Quad]: https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3
+[Twin 150mm Tabasco]: https://azurlane.koumakan.jp/wiki/Twin_150mm_(TbtsK_C/36)#Type_3-0
+[Triple 150mm SKC25]: https://azurlane.koumakan.jp/wiki/Triple_150mm_(SK_C/25)#Type_3-0
+[Quad 152mm Proto]: https://azurlane.koumakan.jp/wiki/Prototype_Quadruple_152mm_Main_Gun_Mount
+[Triple 155mm]: https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)#Type_3-0
+[Triple 155mm Kai]: https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai
 
-[Avenger VT18]: https://azurlane.koumakan.jp/General_Motors_TBM_Avenger_(VT-18_Squadron)
-[Barracuda]: https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3
-[F4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair#Type_3
-[F6F]: https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3
-[Firebrand]: https://azurlane.koumakan.jp/Blackburn_Firebrand
-[VF4U]: https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+[Triple 203mm 1934]: https://azurlane.koumakan.jp/wiki/Triple_203mm_(Mle_1934_Prototype)
+[Triple 203mm Mk15]: https://azurlane.koumakan.jp/wiki/Triple_203mm_(8%22/55_Mk_15_SHS)
 
-[Autoloader]: https://azurlane.koumakan.jp/Autoloader#Type_3
-[Advanced Boiler]: https://azurlane.koumakan.jp/Improved_Boiler#Type_3
-[Air Radar]: https://azurlane.koumakan.jp/Air_Radar#Type_3
-[Catapult]: https://azurlane.koumakan.jp/Steam_Catapult#Type_3
-[Fire Control Radar]: https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3
-[Fuel Filter]: https://azurlane.koumakan.jp/Fuel_Filter#Type_3
-[Gyroscope]: https://azurlane.koumakan.jp/Gyroscope#Type_3
-[OxyTorp]: https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo#Type_3
-[PR Rudder]: https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder
-[SG Radar]: https://azurlane.koumakan.jp/SG_Radar#Type_3
-[SHS]: https://azurlane.koumakan.jp/Super_Heavy_Shell
-[Type 1]: https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell
+[Twin 381mm MkII]: https://azurlane.koumakan.jp/wiki/Twin_381mm_(BL_15%22_Mk_II)
+[Twin 406mm Proto]: https://azurlane.koumakan.jp/wiki/Twin_406mm_(SK_C/34_Prototype)
+[Twin 410mm 3rd]: https://azurlane.koumakan.jp/wiki/Twin_410mm_(3rd_Year_Type)#Type_3-0
+
+[533mm Quint]: https://azurlane.koumakan.jp/wiki/533mm_Quintuple_Torpedo_Mount#Type_3-0
+[533mm Quint Homing]: https://azurlane.koumakan.jp/wiki/533mm_Quintuple_Homing_Torpedo_Mount#Type_2-0
+[533mm Quint UR]: https://azurlane.koumakan.jp/wiki/533mm_Quintuple_Homing_Torpedo_Mount#Type_3-0
+[610mm Quad]: https://azurlane.koumakan.jp/wiki/610mm_Quadruple_Torpedo_Mount#Type_3-0
+
+[Avenger VT18]: https://azurlane.koumakan.jp/wiki/General_Motors_TBM_Avenger_(VT-18_Squadron)
+[Barracuda]: https://azurlane.koumakan.jp/wiki/Fairey_Barracuda#Type_3-0
+[F4U]: https://azurlane.koumakan.jp/wiki/Vought_F4U_Corsair#Type_3-0
+[F6F]: https://azurlane.koumakan.jp/wiki/Grumman_F6F_Hellcat#Type_3-0
+[F6F HVAR]: https://azurlane.koumakan.jp/wiki/Grumman_F6F_Hellcat_(HVAR-Mounted)
+[Firebrand]: https://azurlane.koumakan.jp/wiki/Blackburn_Firebrand
+[Saiun Kai]: https://azurlane.koumakan.jp/wiki/Nakajima_C6N_Saiun_(Model_21_Prototype)
+[Sea Hornet]: https://azurlane.koumakan.jp/wiki/De_Havilland_Sea_Hornet
+[Skypirate]: https://azurlane.koumakan.jp/wiki/Douglas_XTB2D-1_Skypirate
+[VF4U]: https://azurlane.koumakan.jp/wiki/Vought_F4U_Corsair_(VF-17_Squadron)
+[Wyvern]: https://azurlane.koumakan.jp/Westland_Wyvern
+
+[533mm Magnet Torp]: https://azurlane.koumakan.jp/wiki/533mm_Magnetic_Torpedo#Type_3-0
+[6CRH]: https://azurlane.koumakan.jp/wiki/6CRH_Armor_Piercing_Shell
+[Anti-Air Radar]: https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar
+[Autoloader]: https://azurlane.koumakan.jp/wiki/Autoloader#Type_3-0
+[Advanced Boiler]: https://azurlane.koumakan.jp/wiki/Improved_Boiler#Type_3-0
+[Air Radar]: https://azurlane.koumakan.jp/wiki/Air_Radar#Type_3-0
+[Catapult]: https://azurlane.koumakan.jp/wiki/Steam_Catapult#Type_3-0
+[Fire Control Radar]: https://azurlane.koumakan.jp/wiki/Fire_Control_Radar#Type_3-0
+[Fuel Filter]: https://azurlane.koumakan.jp/wiki/Fuel_Filter#Type_3-0
+[Gyroscope]: https://azurlane.koumakan.jp/wiki/Gyroscope#Type_3-0
+[J-Class Crown]: https://azurlane.koumakan.jp/wiki/J-class_Crown
+[OxyTorp]: https://azurlane.koumakan.jp/wiki/Type_93_Pure_Oxygen_Torpedo#Type_3-0
+[PR Fire Control]: https://azurlane.koumakan.jp/wiki/High_Performance_Fire_Control_Radar
+[PR Rudder]: https://azurlane.koumakan.jp/wiki/Improved_Hydraulic_Rudder
+[SG Radar]: https://azurlane.koumakan.jp/wiki/SG_Radar#Type_3-0
+[SHS]: https://azurlane.koumakan.jp/wiki/Super_Heavy_Shell
+[Toolbox]: https://azurlane.koumakan.jp/Repair_Toolkit#Type_3
+[Type 1]: https://azurlane.koumakan.jp/wiki/Type_1_Armor_Piercing_Shell
