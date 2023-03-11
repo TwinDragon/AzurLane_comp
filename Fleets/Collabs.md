@@ -23,6 +23,8 @@ Atelier is a set of RPG's centered around alchemy and story-telling elements and
 | ![Reisalin Stout](/imgs/Collab/Atelier_Ryza/Reisalin_StoutChibi.png) | Reisalin Stout | CL | [Triple 155mm (3rd Year Type) Kai][Triple 155mm Kai]<br />![Triple 155mm Kai](/imgs/Equip/Guns/cl/155mm_triple_kai.png) | [Grand Bomb][Grand Bomb]<br />![Grand Bomb](/imgs/Equip/Auxillary/atelier/grand_bomb.png) | [Laute Pajig][Laute Pajig]<br />![Laute Pajig](/imgs/Equip/Auxillary/atelier/laute_plajig.png) | [Crystal Ice Bomb][Crystal Ice Bomb]<br />![Crystal Ice Bomb](/imgs/Equip/Auxillary/atelier/crystal_ice_bomb.png) | [Wirbel Luft][Wirbel Luft]<br />![Wirbel Luft](/imgs/Equip/Auxillary/atelier/wirbel_luft.png) |
 | ![Lila Decyrus](/imgs/Collab/Atelier_Ryza/Lila_DecyrusChibi.png) | Lila Decyrus | CA | [Triple 203mm (8"/55 Mk 15 SHS)][Triple 203mm Mk15]<br />![Triple 203mm Mk15](/imgs/Equip/Guns/ca/203mm_triple_mk15.png) | [Quintuple 533mm][533mm Quint]<br />![533mm Quintuple](/imgs/Equip/Torps/533mm_quint_torp_sr.png) | [Quadruple 40mm Bofors][40mm Bofors]<br />![40mm Bofors](/imgs/Equip/AntiAir/40mm_quad_bofors_sr.png) | [Genesis Hammer][Genesis Hammer]<br />![Genesis Hammer](/imgs/Equip/Auxillary/atelier/genesis_hammer.png) | [Bubble Bullet][Bubble Bullet]<br />![Bubble Bullet](/imgs/Equip/Auxillary/atelier/bubble_bullet.png) |
 
+***Big Note:*** *All of the Ryza girls had a special augment module available to them. Make sure they're equipped with these if you did the event when it was running.*
+
 
 [40mm Bofors]: https://azurlane.koumakan.jp/Quadruple_40mm_Bofors_(Mk_2_Mount)#Type_3
 [40mm STAAG]: https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG
