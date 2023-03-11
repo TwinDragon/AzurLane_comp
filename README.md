@@ -19,9 +19,9 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
+| ![Anchorage](imgs/USS/AnchorageChibi.png) | Anchorage | CA | <details><summary>Protector of your frontline.</summary>She hit's pretty hard if you give her the right gun, and she protects your fleet when first sortied for a few seconds, and any time it procs after that. She even has a chance to pop a smokescreen which will help evasion temporarily.</details>
+| ![Allen M. Sumner](imgs/USS/AllenSumnerChibi.png) | Allen M. Sumner | DD | <details><summary>You want AA? She's got you covered in AA.</summary>With a barrage that procs fairly often if you give her a quick-firing gun, she's really your AA bolster if you need more AA. Equip her with an Eagle Union gear and she'll gain an additional Ghost AA Gun to take with her.</details>
 | ![Monpelier](imgs/USS/MontpelierChibi.png) | Montpelier | CL | <details><summary>Cleveland, but better.</summary>Montpelier is the younger Cleveland-class, improving on her namesake in many ways. She also helps out your other cruisers as well.</details>
-| ![Laffey Kai](imgs/USS/LaffeyKaiChibi.png) | Laffey Kai | DD | <details><summary>For a DD, she hits pretty hard.</summary>An AP barrage along with torps? Why not. She also hits hard too and is all-around decent.</details>
-| ![Baltimore](imgs/USS/BaltimoreChibi.png) | Baltimore | CA | <details><summary>Hard hitting and CV buffing.</summary>Baltimore hits hard, decent armor, and even buffs your CV's and CVL's in USS fleets. If you sortie without them, she'll buff herself instead. Also, she has a special AP ammo buff for her main gun.</details>
 
 ## Sakura Empire / IJN
 ### Kitsune
@@ -33,37 +33,37 @@ Each section will also have a dedicated file for which faction they belong in th
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Jintsuu Kai](imgs/IJN/JintsuuKaiChibi.png) | Jintsuu Kai | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
-| ![Ayanami Kai](imgs/IJN/AyanamiKaiChibi.png) | Ayanami Kai | DD | <details><summary>*THE* Torp Goddess.</summary>Ayanami is the torpedo goddess of the game, so spec'ing her out accordingly is key. But don't count on those guns of hers. Her barrage also launches powerful torpedoes along with decent self-buffs as well.</details>
 | ![Mogami Kai](imgs/IJN/MogamiKaiChibi.png) | Mogami Kai | CA | <details><summary>Better than the Atago sisters.</summary>She makes HE guns actually work in your favor, and has a defense against AP ammo to boot. Hits hard, good armor, good boat to have in your fleet.</details>
+| ![Shimakaze](imgs/IJN/ShimakazeChibi.png) | Shimakaze | DD | <details><summary>Two preload torps? Hell yeah!</summary>Shimakaze comes preloaded with two torps to fire off. She also fires a slash barrage every time they are fired. She also procs her gun barrage very often, so focus on those if you want her to succeed with one of the highest damaging torpedoes in the game.</details>
+| ![Jintsuu Kai](imgs/IJN/JintsuuKaiChibi.png) | Jintsuu Kai | CL | <details><summary>The fox that helps the demon.</summary>Jintsuu buffs all your DD and CL torps while she's afloat, including crits. Pair her up with Ayanami and you've got a force to be reckoned with.</details>
 
 ## Royal Navy / HMS
 ### Meido
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Monarch](imgs/HMS/MonarchChibi.png) | Monarch | BB | <details><summary>Hood, but a BB.</summary>Monarch is basically an AP version of HMS Hood, but in BB form. This requires her to be flagship to make the most use out of her barrage. Otherwise, she hits hard, and hits Sirens harder.</details>
-| ![Unicorn](imgs/HMS/UnicornChibi.png) | Unicorn | CVL | <details><summary>The little cutie of healers.</summary>Unicorn is an excellent defense-focused CVL that heals your vanguard every time her aircraft launch.</details>
+| ![Vanguard](imgs/HMS/VanguardChibi.png) | Vanguard | BB | <details><summary>Royal Navy buffer and barrager.</summary>When at full limit break, she will always fire a barrage every time her guns reload. She also buffs your Royal Navy ships, and as long as you equip at least one Royal Navy equipment, she'll get a boost in AA and a main gun spread reduction.</details>
+| ![Perseus](imgs/HMS/PerseusChibi.png) | Perseus | CVL | <details><summary>Your fleet will never die.</summary>Perseus is a CVL that comes pre-loaded with two aircraft launches. On top of that, launch will heal your fleet. The only draw back is that her reload is abysmal due to this skill, but don't let that be a deterrent. Stagger her launches for the most effective healing.</details>
 | ![Illustrious](imgs/HMS/IllustriousChibi.png) | Illustrious | CV | <details><summary>My god those boobs... *cough*</summary>In all seriousness, Illustrious is a defense-oriented CV, having 2 fighter slots and a skill that protects your vanguard from all damage for a few seconds when her aircraft launch.</details>
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
+| ![Cheshire](imgs/HMS/CheshireChibi.png) | Cheshire | CA | <details><summary>Royal Navy's answer to AA.</summary>She's got some good self-buffs on herself, on top of dealing some pretty solid damage. Her first two waves of torps have a reduced load time, and each time she takes damage, she buffs herself even further every battle. (stacks 3 times per battle)</details>
+| ![Janus](imgs/HMS/JanusChibi.png) | Janus | DD | <details><summary>Shy little destroyer that does damage.</summary>She's a shy one, but when it really matters, she'll help your fleet out. While her buffs are mainly for other J-Class DD's of the Royal Navy, I wouldn't focus on them. But her barrage causes a temporary debuff on enemies that take increased damage from DD's and CL's of your Royal Navy fleet.</details>
 | ![Neptune](imgs/HMS/NeptuneChibi.png) | Neptune | CL | <details><summary>AA for your Queen.</summary>She's got anti-air to back up your fleet from planes. Also, she boosts her own AP shells, so bring those too. And she can self-heal? What's not to like. She's a maid too.</details>
-| ![Javelin Kai](imgs/HMS/JavelinKaiChibi.png) | Javelin Kai | DD | <details><summary>She's bringing that bento!</summary>Her Kai really bolstered her where she was just a mediocre ship before. She's also got very high evasion and an AP barrage from her retrofit. And she's cute.</details>
-| ![London Kai](imgs/HMS/LondonKaiChibi.png) | London Kai | CA | <details><summary>The maid that boosts FP.</summary>She boosts your entire vanguards firepower by 15%, regardless of faction. Plus, she gets more accurate every time she sinks an enemy.</details>
 
 ## Iron Blood / KMS
 ### Ryuu
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Ulrich](imgs/KMS/UlrichChibi.png) | Ulrich von Hutten | BB | <details><summary>Somewhat New Jersey for your KMS.</summary>She fires a barrage everytime her main guns fire off, much like New Jersey. On top of that, she hits incredibly hard against others. On top of the other myriad of buffs or debuffs she does, very worthy to have in your fleet.</details>
-| ![Peter Strasser](imgs/KMS/Peter_StrasserChibi.png) | Peter Strasser | CV | <details><summary>Slows enemies, and gets KMS buffs.</summary>Peter Strasser may not be in the same light as Graf Zeppelin, but she does get buffs from being in a KMS fleet, and she reduces reload of CV and CVL's for the first 3 rounds. Formiddable in her own right.</details>
 | ![Graf Zeppelin](imgs/KMS/Graf_ZeppelinChibi.png) | Graf Zeppelin | CV | <details><summary>The pinnacle of KMS carriers, she helps your vanguard too.</summary>Graf Zeppelin is a good carrier to have. Not only does she buff your vanguard by reducing the damage they take, she gets a buff herself for each KMS ship up to a stack of 3. Equip her with KMS Aircraft and she'll carry you to glory.</details>
+| ![August von Parseval](imgs/KMS/August_von_ParsevalChibi.png) | August von Parseval | CV | <details><summary>A KMS carrier that really carries your fleet.</summary>She's a KMS carrier worthy of being in the fleet. When at Level 5 Fate Simulation, her aircraft launch guarantees the enemy to slow to 0, just long enough for aimed torpedo bombers to land every single hit, increasing alpha damage tremendously. She also launches an aerial barrage on top of this to cause light and medium armor enemies hit to take additional aviation damage. Equip her with an Iron Blood aircraft and she'll bring you glory to Iron Blood.</details>
+| ![Ulrich](imgs/KMS/UlrichChibi.png) | Ulrich von Hutten | BB | <details><summary>Somewhat New Jersey for your KMS.</summary>She fires a barrage everytime her main guns fire off, much like New Jersey. On top of that, she hits incredibly hard against others. On top of the other myriad of buffs or debuffs she does, very worthy to have in your fleet. As a sidenote, she typically performs better in off-flag position. However, if you have the out-of-ammo debuff on a map, put her as flagship instead.</details>
 
 | Chibi | Name | Class | Reason 
 | --- | --- | --- | --- |
-| ![Leipzig Kai](imgs/KMS/LeipzigKaiChibi.png) | Leipzig Kai | CL | <details><summary>Cruiser buffer, and more speed!</summary>Leipzig buffs your cruisers in the fleet, as well as increasing the speed of your vanguard. On top of this, she'll temporarily evade all enemy fire when her health is low, and a damage buff until the end of the battle.</details>
-| ![Z46](imgs/KMS/Z46Chibi.png) | Z46 | DD | <details><summary>Feisty little boat with that barrage of hers.</summary>She's a feisty one, as her AP barrage gets a buff from her skill (but for the love of Cubes, do not equip an AP gun on her; DD's do not like AP guns), and she can hit rapidly too. Oh, and she buffs herself every time she fires down a plane. Buff timer resets every time, but does not stack.</details>
 | ![Prinz Heinrich](imgs/KMS/PrinzHeinrichChibi.png) | Prinz Heinrich | CA | <details><summary>Big boat guns.</summary>She's not remarkable, but she gets a self-buff for having another KMS boat in your fleet. And she always fires a barrage every 20 seconds, can't complain there.</details>
+| ![Z46](imgs/KMS/Z46Chibi.png) | Z46 | DD | <details><summary>Feisty little boat with that barrage of hers.</summary>She's a feisty one, as her AP barrage gets a buff from her skill, and she can hit rapidly too. Oh, and she buffs herself every time she fires down a plane. Buff timer resets every time, but does not stack.</details>
+| ![Leipzig Kai](imgs/KMS/LeipzigKaiChibi.png) | Leipzig Kai | CL | <details><summary>Cruiser buffer, and more speed!</summary>Leipzig buffs your cruisers in the fleet, as well as increasing the speed of your vanguard. On top of this, she'll temporarily evade all enemy fire when her health is low, and a damage buff until the end of the battle.</details>
 
 ## Submarines
 *Subs are in a class of their own as they provide supplemental torpedo power. They can help if you have the extra oil to spare. In many cases, their barrages won't matter much, so put your favorite submarine as the first slot if you want.*
