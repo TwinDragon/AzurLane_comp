@@ -17,6 +17,8 @@ The Royal Navy has not been my more favorite faction to make fleets for. Many of
 | ![Perseus](/imgs/HMS/PerseusChibi.png) | Perseus | CVL | [Vought F4U Corsair (VF-17 Squadron)][VF4U]<br />![VF4U Corsair](/imgs/Equip/Aircraft/Fighters/vf4u_corsair_sr.png) | [Nakajima C6N Saiun (Model 21 Prototype)][Saiun Kai]<br />![Saiun Kai](/imgs/Equip/Aircraft/Torp/saiun_kai.png) | [Twin 40mm Bofors STAAG][40mm STAAG]<br />![Twin 40mm STAAG](/imgs/Equip/AntiAir/40_twin_bofors_staag_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 | ![Illustrious](/imgs/HMS/IllustriousChibi.png) | Illustrious | CV | [Grumman F6F Hellcat (HVAR-Mounted)][F6F HVAR]<br />![F6F HVAR](/imgs/Equip/Aircraft/Fighters/f6f_hellcat_hvar.png) | [de Havilland Sea Hornet][Sea Hornet]<br />![Sea Hornet](/imgs/Equip/Aircraft/Fighters/sea_hornet.png) | [Fairey Barracuda][Barracuda]<br />![Barracuda](/imgs/Equip/Aircraft/Torp/barracuda_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) | [Steam Catapult][Catapult]<br />![Steam Catapult](/imgs/Equip/Auxillary/steam_catapult_sr.png) |
 
+*Note: Illustrious has two fighter slots, so in maps that don't call for heavy damage against light armor, one can swap the F6F Hellcat HVAR for some other fighter, such as the VF4U Corsair, or an F7F Tigercat, etc... Or, if you are going up against a lot of light armor and AA is not a concern, equip both slots with Hellcat HVAR's to obliterate light armor. I recommend at least keeping one for passive AA though.*
+
 ### Vanguard
 
 | Chibi | Name | Class | Main Gun | Secondary | Anti-Air | Aux 1 | Aux 2
